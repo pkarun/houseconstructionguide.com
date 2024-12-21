@@ -1,0 +1,59 @@
+baseURL: https://houseconstructionguide.com/
+languageCode: en-us
+title: House Construction Guide
+theme: PaperMod
+permalinks:
+  posts: /:slug
+
+params:
+  defaultTheme: light
+  disableThemeToggle: true
+  ShowCodeCopyButtons: false
+  ShowPostNavLinks: false
+  gtm_id: GTM-PGKJGBM
+  gtm_datalayer: basic
+
+  homeInfoParams:
+    Title: Sharing my House Construction Experience 
+    Content: "Hi, I'm [P K Arun](https://pkarun.com). 
+
+    The guy behind this blog. Our family constructed two houses in Bangalore and I thought to share our house construction experience with this blog so users can avoid those common mistakes they do while constructing their house. [Read Our Story >>](https://houseconstructionguide.com/about-us/)."
+
+assets:
+  favicon16x16: /assets/favicon-16x16.png
+  favicon32x32: /assets/favicon-32x32.png
+  apple_touch_icon: /assets/apple-touch-icon.png
+  
+favicon: favicon.ico
+
+
+menu:
+  main:
+  - identifier: Free
+    name: Free
+    url: /free/
+    weight: 10
+  - identifier: About Us
+    name: About Us
+    url: /about-us/
+    weight: 20
+  - identifier: Products
+    name: Products
+    url: /products/
+    weight: 30  
+  - identifier: Search
+    name: Search
+    url: /search/
+    weight: 40
+  - identifier: Contact Us
+    name: Contact Us
+    url: /contact-us/
+    weight: 50
+ 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+  

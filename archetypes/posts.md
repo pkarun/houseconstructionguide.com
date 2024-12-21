@@ -1,0 +1,10 @@
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+lastmod: {{ .Date }}
+author: ["P K Arun"]
+tags: 
+- tag 1
+- tag 2
+slug: ""
+---
