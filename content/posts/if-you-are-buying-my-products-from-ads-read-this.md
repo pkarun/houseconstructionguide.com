@@ -42,7 +42,7 @@ Anyway, I just wanted to share this with you to make you a better-informed buyer
 
 I don't want to play such games with my email subscribers. I could make quick cash by doing that… but it definitely not gonna help my buyers much.
 
-I want my subscribers to buy my All-Access Pass (who can offered, If not also no issues). This is where they get all the common mistakes they could make and how to avoid them during construction time.
+I want [my subscribers to buy my All-Access Pass](https://houseconstructionguide.com/products/#All-Access-Pass) (who can offered, If not also no issues). This is where they get all the common mistakes they could make and how to avoid them during construction time.
 
 Which could help them for the lifespan of the building. 
 

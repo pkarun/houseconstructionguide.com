@@ -1,7 +1,7 @@
 ---
 title: "The struggle that I witnessed during rain"
-date: 2024-12-21T07:06:16+05:30
-lastmod: 2024-12-21T07:06:16+05:30
+date: 2024-10-20T07:06:16+05:30
+lastmod: 2024-10-20T07:06:16+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building',rain'] 
 
@@ -44,7 +44,7 @@ Or else, on those function days, you will face a hell of a lot of problems for s
 
 Suppose you are still in the construction phase. In that case, I have one important suggestion you should implement to have a better experience in your house during the rainy season.
 
-Which I explained in my Rainy Days guide. (no dedicated sales page or more infomation, sorry!)
+Which I explained in [my Rainy Days guide.](https://houseconstructionguide.com/products/#Rainy-Days) (no dedicated sales page or more infomation, sorry!)
 
 If it's raining in your area, I recommend reading this guide today so you can experience the feeling and avoid making similar mistakes in your construction building.
 

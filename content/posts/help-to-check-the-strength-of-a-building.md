@@ -1,7 +1,7 @@
 ---
 title: "Help to check the strength of a building"
-date: 2024-12-21T07:19:09+05:30
-lastmod: 2024-12-21T07:19:09+05:30
+date: 2024-10-25T07:19:09+05:30
+lastmod: 2024-10-25T07:19:09+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','strength']
 
@@ -54,6 +54,6 @@ Anyway… I highly recommend getting in touch with some or a few structural engi
 
 Ask any building contractors, labourers, or engineers how well-sale buildings are built. They will give a clear picture of it.
 
-If you are building a house using the labour contract method, check my guides, which will help avoid a few first-time user mistakes.
+If you are building a house using the labour contract method, [check my guides](https://houseconstructionguide.com/products/), which will help avoid a few first-time user mistakes.
 
 Arun

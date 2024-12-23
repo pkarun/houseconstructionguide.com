@@ -1,14 +1,14 @@
 ---
 title: "My Consultation requests"
-date: 2024-12-20T15:58:31+05:30
-lastmod: 2024-12-20T15:58:31+05:30
+date: 2024-09-30T15:58:31+05:30
+lastmod: 2024-09-30T15:58:31+05:30
 author: ["P K Arun"]
 tags: ['House construction','consultation','Request']
 
 slug: "my-consultation-requests"
 ---
 
-Got the below email from one of my All-Access Pass customers few days back:
+Got the below email from one of my [All-Access Pass customers](https://houseconstructionguide.com/products/) few days back:
 
 Hello Arun
 

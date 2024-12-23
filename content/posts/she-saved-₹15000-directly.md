@@ -1,7 +1,7 @@
 ---
 title: "She saved ₹15,000 directly"
-date: 2024-12-20T15:52:27+05:30
-lastmod: 2024-12-20T15:52:27+05:30
+date: 2024-09-26T15:52:27+05:30
+lastmod: 2024-09-26T15:52:27+05:30
 author: ["P K Arun"]
 tags: ['House construction','save money']
 
@@ -36,6 +36,6 @@ We can save even more during special sales like this with bank card discounts.
 
 Got anything to buy now?
 
-Visit Flipkart and Amazon to check the products you plan to buy. 
+Visit Flipkart and [Amazon to check the products](https://www.amazon.in/b?_encoding=UTF8&node=29657746031&pd_rd_w=g1a8T&content-id=amzn1.sym.9b93c48c-3fc4-4763-8c35-9d8aa73a10c9&pf_rd_p=9b93c48c-3fc4-4763-8c35-9d8aa73a10c9&pf_rd_r=R2RJHPMXJYBC9AMEN0KR&pd_rd_wg=C9ZzR&pd_rd_r=3f676f6d-f2b1-4221-a37f-4e40b7805972&linkCode=ll2&tag=newsite0003-21&linkId=5cb4aaee309d4cd0353e25ae5b51faae&language=en_IN&ref_=as_li_ss_tl) you plan to buy. 
 
 The sale has already started on both sites if you are a Plus and Prime member. If not, then you need to wait till tomorrow.

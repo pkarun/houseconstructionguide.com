@@ -1,7 +1,7 @@
 ---
 title: "My Brother Dont Belive in Numerology but Now"
-date: 2024-12-03T13:00:41+05:30
-lastmod: 2024-12-21T13:00:41+05:30
+date: 2024-09-17T13:00:41+05:30
+lastmod: 2024-09-17T13:00:41+05:30
 author: ["P K Arun"]
 tags: ['House construction','numerology']
 
@@ -42,4 +42,4 @@ All you need to do is find a number that is good for the house owner and find a 
 
 By doing this, you have nothing to lose.
 
-In my Bulk Name Numerology Calculator, I shared all these details. If you are interested in this, visit this page for more details.
+In my Bulk Name Numerology Calculator, I shared all these details. If you are interested in this, [visit this page for more details.](https://houseconstructionguide.com/bulk-name-numerology-calculator/)

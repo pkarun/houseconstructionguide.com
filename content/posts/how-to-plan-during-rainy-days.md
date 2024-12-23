@@ -1,7 +1,7 @@
 ---
 title: "How to Plan During Rainy Days"
-date: 2024-12-20T13:37:50+05:30
-lastmod: 2024-12-20T13:37:50+05:30
+date: 2024-08-20T13:37:50+05:30
+lastmod: 2024-08-20T13:37:50+05:30
 author: ["P K Arun"]
 tags: ['House construction','rainy days','plans']
 
@@ -50,6 +50,6 @@ One such important thing every new house construction user needs to remember is 
 
 Most never think from such an angle during the construction of their building. They will realise their mistakes when it rains…
 
-If you want to learn from my mistakes, visit Rainy Days to learn more. 
+If you want to learn from my mistakes, [visit Rainy Days to learn more.](https://houseconstructionguide.com/products/#16-rainy-days) 
 
 Arun

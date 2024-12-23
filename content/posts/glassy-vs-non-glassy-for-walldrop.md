@@ -1,7 +1,7 @@
 ---
 title: "glassy vs non glassy for walldrop"
-date: 2024-12-20T15:00:27+05:30
-lastmod: 2024-12-20T15:00:27+05:30
+date: 2024-09-05T15:00:27+05:30
+lastmod: 2024-09-05T15:00:27+05:30
 author: ["P K Arun"]
 tags: ['House construction','walldrop']
 
@@ -32,7 +32,7 @@ Personally, I feel glassy looks is quite over look. 
 
 Think about it when your time comes to choose a wardrobe laminate sheet. 
 
-One more important wall-drop concept everyone should implement during construction is shared in my Walldrop guide.
+One more important wall-drop concept everyone should implement during construction is shared in my [Walldrop guide.](https://houseconstructionguide.com/products/#Walldrop)
 
 I made that mistake in our first building and corrected it in our second building.
 

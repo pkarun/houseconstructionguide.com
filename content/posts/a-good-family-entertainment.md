@@ -1,7 +1,7 @@
 ---
 title: "A good family entertainment"
-date: 2024-12-21T10:16:47+05:30
-lastmod: 2024-12-21T10:16:47+05:30
+date: 2024-11-02T10:16:47+05:30
+lastmod: 2024-11-02T10:16:47+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','entertainment'] 
 
@@ -50,7 +50,7 @@ All the above automation setups can be done for 1000 to 3000 rs if you plan well
 
 If not planned, then it's a different story.
 
-I shared all such preliminary setups that you need to take care of during house construction time inside my guides. And I recommend that everyone implement those suggestions to make their lives easier.
+I shared [all such preliminary setups that you need to take care of during house construction time inside my guides.](https://houseconstructionguide.com/products/) And I recommend that everyone implement those suggestions to make their lives easier.
 
 For security 24*7? Our CC cam takes care of everything in the building.
 

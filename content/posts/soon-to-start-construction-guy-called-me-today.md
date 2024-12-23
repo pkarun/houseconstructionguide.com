@@ -1,7 +1,7 @@
 ---
 title: "Soon to Start Construction Guy Called Me Today"
-date: 2024-08-17T11:15:23+05:30
-lastmod: 2024-08-17T11:15:23+05:30
+date: 2024-08-16T11:15:23+05:30
+lastmod: 2024-08-16T11:15:23+05:30
 author: ["P K Arun"]
 tags: 
 - tips

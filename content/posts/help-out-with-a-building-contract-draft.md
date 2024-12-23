@@ -1,7 +1,7 @@
 ---
 title: "Help Out with a Building Contract Draft"
-date: 2024-12-20T16:08:47+05:30
-lastmod: 2024-12-20T16:08:47+05:30
+date: 2024-10-03T16:08:47+05:30
+lastmod: 2024-10-03T16:08:47+05:30
 author: ["P K Arun"]
 tags: ['House construction','contract','building'] 
 
@@ -12,7 +12,7 @@ Today, I got the below WhatsApp message from one of my customers:
 
 Customer: Hey good morning Arun.
 
-Customer: I bought one of your expense calculators, and it is very detailed. Thank you very much.
+Customer: I [bought one of your expense calculators](https://houseconstructionguide.com/our-house-construction-expenses/), and it is very detailed. Thank you very much.
 
 Customer: I am right now signing a contract with my contractor and just getting quotes.
 
@@ -20,7 +20,7 @@ Customer: I wanted to check if you could help out with a contract draft that I u
 
 No. I don't offer 1 on 1 support.
 
-Instead, you can go through my Building Contractor Guide, where I shared many tips for framing a good building labour contract.
+Instead, you can go through [my Building Contractor Guide](https://houseconstructionguide.com/building-contractor-guide/), where I shared many tips for framing a good building labour contract.
 
 I don't have any standard contractor agreement format.
 

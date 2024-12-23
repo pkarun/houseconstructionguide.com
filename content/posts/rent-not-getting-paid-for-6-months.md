@@ -1,7 +1,7 @@
 ---
 title: "Rent Not Getting Paid for 6 Months+"
-date: 2024-12-20T13:52:31+05:30
-lastmod: 2024-12-20T13:52:31+05:30
+date: 2024-08-21T13:52:31+05:30
+lastmod: 2024-08-21T13:52:31+05:30
 author: ["P K Arun"]
 tags: ['House construction','rent','payment']
 
@@ -60,4 +60,4 @@ Now, I learned from my mistakes.
 
 If you want to avoid similar first-time home construction owners mistakes, then I shared all my learning and lessons inside my guides. You can get it for a one-time payment for lifetime access.
 
-If this interests you, then the HCG All-Access Pass is something for you.
+If this interests you, then the [HCG All-Access Pass](https://houseconstructionguide.com/products/#all-access-pass) is something for you.

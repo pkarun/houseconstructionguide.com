@@ -1,7 +1,7 @@
 ---
 title: "An idea to think about…"
-date: 2024-12-21T10:23:07+05:30
-lastmod: 2024-12-21T10:23:07+05:30
+date: 2024-11-04T10:23:07+05:30
+lastmod: 2024-11-04T10:23:07+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','idea']
 
@@ -20,7 +20,7 @@ It would be a good move if you could ask me.
 
 No more time wasted on watching useless ads and getting updated entertainment at our fingertips.
 
-However, not all can implement this in their home because you need a good broadband (internet) connection with unlimited data and a proper network plan to enjoy 4K videos without buffering.
+However, not all can implement this in their home because you need a good broadband (internet) connection with unlimited data and a [proper network plan to enjoy 4K videos without buffering.](https://houseconstructionguide.com/internet-everywhere/)
 
 If you don't have those, you cannot enjoy them properly.
 
@@ -40,7 +40,7 @@ If you will build only an owner-stay house and have a budget to build one extra 
 
 See… till now, I never saw any value in those home theater.
 
-Now, after seeing some changes in my home after upgrading the old TV to a new 4K TV, Old DTH to OTT Apps, and a good Home theater for a better sound system. It's truly a different entertainment.
+Now, after seeing some changes in my home after upgrading the old TV to a new 4K TV, Old DTH to OTT Apps, and [a good Home theater for a better sound system.](https://www.amazon.in/Sony-HT-S20R-Soundbar-Bluetooth-Connectivity/dp/B084685MT1?crid=3DYJA9258WK83&dib=eyJ2IjoiMSJ9.ZM-4CVTfULqB6jxUj7Mp8LCqTZ4S6haIgbmOVE0onE0gp-AYSvZouI_h6I26lDzslRPgToZhVgEkStV1dXzX6osa7t340lLQvMYUghZfBf16Tmga9Q4QMM_CaAxziDqPFWfaqmitWQc7XrrmahGoDedeYK6N-5zriZ7Q1LJC-gLMLrbNIZznr8-GqDbiXcaQL2YlYevSMaq5yQjQD-3Pw4-2XFrKeFupnY772peAloI.OKc2ZsoGUux1n6MwgTnf849P75nq24RfGINDUS8PAE8&dib_tag=se&keywords=SONY%2BHT-S20R%2B5.1ch&nsdOptOutParam=true&qid=1730728398&sprefix=sony%2Bht-s20r%2B5.1ch%2B%2Caps%2C186&sr=8-1&th=1&linkCode=ll1&tag=newsite0003-21&linkId=24fc193cac16bce75d32d583b178b3e2&language=en_IN&ref_=as_li_ss_tl) It's truly a different entertainment.
 
 It's never happened before.
 

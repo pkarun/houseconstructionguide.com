@@ -1,7 +1,7 @@
 ---
 title: "Think rental income before planning"
-date: 2024-12-20T15:23:10+05:30
-lastmod: 2024-12-20T15:23:10+05:30
+date: 2024-09-11T15:23:10+05:30
+lastmod: 2024-09-11T15:23:10+05:30
 author: ["P K Arun"]
 tags: ['House construction','rental income','planning']
 
@@ -46,6 +46,6 @@ I'm not very active there yet.
 
 I will soon when I have something to share.
 
-If you plan to start or already have rental properties in India, join me at IndianLandlord.com to receive landlording tips.
+If you plan to start or already have rental properties in India, [join me at IndianLandlord.com](https://indianlandlord.com/) to receive landlording tips.
 
 Arun

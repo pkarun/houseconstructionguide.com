@@ -1,7 +1,7 @@
 ---
 title: "A Shady Laptop Battery Seller"
-date: 2024-12-20T14:58:05+05:30
-lastmod: 2024-12-20T14:58:05+05:30
+date: 2024-09-04T14:58:05+05:30
+lastmod: 2024-09-04T14:58:05+05:30
 author: ["P K Arun"]
 tags: ['House construction','laptop','batteryseller']
 
@@ -56,6 +56,6 @@ Similarly, while doing your house construction the first time, home builders mak
 
 I shared all my learnings, mistakes, suggestions, etc., inside my guides.
 
-If this interests you, then my HCG All-Access Pass is something you can learn from my mistakes.
+If this interests you, then [my HCG All-Access Pass](https://houseconstructionguide.com/products/#all-access-pass) is something you can learn from my mistakes.
 
 Arun

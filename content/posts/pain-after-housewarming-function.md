@@ -1,7 +1,7 @@
 ---
 title: "Pain After Housewarming Function"
-date: 2024-12-20T15:09:35+05:30
-lastmod: 2024-12-20T15:09:35+05:30
+date: 2024-09-07T15:09:35+05:30
+lastmod: 2024-09-07T15:09:35+05:30
 author: ["P K Arun"]
 tags: ['House construction','house warming','function']
 
@@ -44,4 +44,4 @@ You spend a little on labour charges, but you take care of your health. Which is
 
 Arun
 
-PS: I shared some of the lessons that I learned after doing housewarming function inside my Housewarming guide.
+PS: I shared some of the lessons that I learned after doing housewarming function [inside my Housewarming guide.](https://houseconstructionguide.com/housewarming-function/)

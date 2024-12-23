@@ -1,7 +1,7 @@
 ---
 title: "today we had a power issue (I didn't get better title idea, lol)"
-date: 2024-12-21T10:58:37+05:30
-lastmod: 2024-12-21T10:58:37+05:30
+date: 2024-11-15T10:58:37+05:30
+lastmod: 2024-11-15T10:58:37+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','power issue']
 
@@ -41,6 +41,6 @@ Just don't listen to your electrical contractor. He always tells me what's easie
 
 When the meter reader first came to take our meter reading, he praised the meter box setup. (credits goes to my dad)
 
-In my electrical work guide, I shared a meter box setup best pratice so you could follow a much better setup than others.
+In my electrical work guide, I shared a [meter box setup best pratice](https://houseconstructionguide.com/electrical-work-guide/) so you could follow a much better setup than others.
 
 A properly planned meter box helps during maintenance or when any issues happen.

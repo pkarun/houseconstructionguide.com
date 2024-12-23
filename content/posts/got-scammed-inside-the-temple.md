@@ -1,7 +1,7 @@
 ---
 title: "I Got scammed inside the temple"
-date: 2024-12-21T11:27:19+05:30
-lastmod: 2024-12-21T11:27:19+05:30
+date: 2024-12-16T11:27:19+05:30
+lastmod: 2024-12-16T11:27:19+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','scammed']
 
@@ -50,12 +50,8 @@ This reminded me of my first house construction, where an electrical contractor 
 
 A good way to avoid contractor scams is to have a written contract agreement. Which clearly outlines the contract work scope, payment terms, exit terms, etc., in a written agreement.
 
-Now… I will make a special and limited-time offer where you can get all the labour contract agreement templates I have prepared based on my construction experience.
-
-It's only available for 3 days. After that, I will take it down.
-
 If this is something you are interested in, visit the below link to learn more:
 
-https://houseconstructionguide.com/agreement-bundle
+https://houseconstructionguide.com/products/
 
 Arun

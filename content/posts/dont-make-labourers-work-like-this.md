@@ -1,7 +1,7 @@
 ---
 title: "Dont Make Labourers Work Like This"
-date: 2024-12-20T13:58:17+05:30
-lastmod: 2024-12-20T13:58:17+05:30
+date: 2024-08-22T13:58:17+05:30
+lastmod: 2024-08-22T13:58:17+05:30
 author: ["P K Arun"]
 tags: ['House construction','labourers','plans'] 
 
@@ -36,4 +36,4 @@ OT work is always a loss for owners and a profit for labourers. So, use OT only 
 
 Arun
 
-PS: More tips about labourers and building contractors are shared in my Building Contractor Guide.
+PS: More [tips about labourers and building contractors](https://houseconstructionguide.com/building-contractor-guide/) are shared in my Building Contractor Guide.

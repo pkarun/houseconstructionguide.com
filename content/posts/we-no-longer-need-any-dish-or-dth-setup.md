@@ -1,7 +1,7 @@
 ---
 title: "We no longer need any Dish or DTH setup"
-date: 2024-12-20T16:29:58+05:30
-lastmod: 2024-12-20T16:29:58+05:30
+date: 2024-10-10T16:29:58+05:30
+lastmod: 2024-10-10T16:29:58+05:30
 author: ["P K Arun"]
 tags: ['House construction','dish or DTH','building']
 
@@ -90,7 +90,7 @@ Everyone sitting in the same room and watching something is a different feeling.
 
 Oh… It's too much to explain all of this in an email.
 
-Anyway, don't forget to install Internet Allover in your building.
+Anyway, [don't forget to install Internet Allover in your building.](https://houseconstructionguide.com/internet-everywhere/)
 
 A smart TV without High-Speed internet is like a smartphone without internet/mobile data.
 

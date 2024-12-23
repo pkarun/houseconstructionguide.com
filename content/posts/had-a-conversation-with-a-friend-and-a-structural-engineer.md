@@ -1,7 +1,7 @@
 ---
 title: "Had a conversation with a friend and a structural engineer"
-date: 2024-12-21T11:06:05+05:30
-lastmod: 2024-12-21T11:06:05+05:30
+date: 2024-11-20T11:06:05+05:30
+lastmod: 2024-11-20T11:06:05+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building',]
 
@@ -52,6 +52,6 @@ Those small problems are the ones which annoy you a lot when you move into your 
 
 Sometimes, it even costs a lot to fix those. Sometimes, you cannot even fix them.
 
-If you want to learn from my point of view, the All-Access Pass is where I shared all such small findings.
+If you want to learn from my point of view, the [All-Access Pass](https://houseconstructionguide.com/products/#all-access-pass) is where I shared all such small findings.
 
 Arun

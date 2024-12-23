@@ -1,7 +1,7 @@
 ---
 title: "Don't just rely on Waterman; follow best practices"
-date: 2024-12-21T10:49:07+05:30
-lastmod: 2024-12-21T10:49:07+05:30
+date: 2024-11-12T10:49:07+05:30
+lastmod: 2024-11-12T10:49:07+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','waterman']
 
@@ -52,8 +52,8 @@ Most of the problems they try are temporary solutions…It's not a permanent sol
 
 And spend thousands of rupees fixing the water issue.
 
-It happened in many of my neighbour's houses. I already shared their stories earlier.
+It happened in many of my neighbour's houses. I already shared [their stories earlier](https://houseconstructionguide.com/house-not-getting-water-taking-other-connection/).
 
-If you don't want to make such mistakes, here are some of the best practices you need to do while constructing a sump and enjoy good water flow to your sump.
+If you don't want to make such mistakes, [here are some of the best practices](https://houseconstructionguide.com/sump-construction-guide/) you need to do while constructing a sump and enjoy good water flow to your sump.
 
 Arun

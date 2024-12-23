@@ -1,7 +1,7 @@
 ---
 title: "Follow this tip before buying anything online"
-date: 2024-12-21T10:36:40+05:30
-lastmod: 2024-12-21T10:36:40+05:30
+date: 2024-11-07T10:36:40+05:30
+lastmod: 2024-11-07T10:36:40+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','online']
 
@@ -76,7 +76,7 @@ These are simply tips many don't give attention to during construction and suffe
 
 Even professional engineers make those mistakes. I shared a few such incidents with my guides.
 
-If this interests you, I recommend getting an HCG All-Access Pass to access all my current and future guides.
+If this interests you, [I recommend getting an HCG All-Access Pass to access all my current and future guides.](https://houseconstructionguide.com/products/)
 
 Learn from my mistakes and avoid doing those in your house construction.
 

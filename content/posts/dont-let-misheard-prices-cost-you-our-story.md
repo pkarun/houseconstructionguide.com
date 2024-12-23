@@ -1,7 +1,7 @@
 ---
 title: "Don’t Let Misheard Prices Cost You — Our Story"
-date: 2024-12-21T10:47:40+05:30
-lastmod: 2024-12-21T10:47:40+05:30
+date: 2024-11-11T10:47:40+05:30
+lastmod: 2024-11-11T10:47:40+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','cost']
 
@@ -44,7 +44,7 @@ After learning some hard lessons in my first construction, we changed many thing
 
 Luckily, my new system, whatever I adopted, helped in many cases.
 
-I recommend every new house construction user follow what I shared inside my house construction tracking system to avoid the difference between you and contractors.
+I recommend every new house construction user follow [what I shared inside my house construction tracking system to avoid the difference between you and contractors.](https://houseconstructionguide.com/house-construction-tracking-system/)
 
 In that guide, I shared some of my case studies and how they helped me in problematic situations. So you will understand the importance of that guide.
 

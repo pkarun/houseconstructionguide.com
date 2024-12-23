@@ -1,7 +1,7 @@
 ---
 title: "If you think a contractor agreement will be fine… think again"
-date: 2024-12-21T07:04:12+05:30
-lastmod: 2024-12-21T07:04:12+05:30
+date: 2024-10-18T07:04:12+05:30
+lastmod: 2024-10-18T07:04:12+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','agreement',contractor']
 

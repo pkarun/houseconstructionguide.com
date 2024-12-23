@@ -1,7 +1,7 @@
 ---
 title: "I got soo much angry with this customer"
-date: 2024-12-20T16:06:38+05:30
-lastmod: 2024-12-20T16:06:38+05:30
+date: 2024-10-02T16:06:38+05:30
+lastmod: 2024-10-02T16:06:38+05:30
 author: ["P K Arun"]
 tags: ['House construction','customer','angry']
 
@@ -100,4 +100,4 @@ He no longer receives any further communication from me on this Brand.
 
 It's not just about the money… I don't want your money if you are not the right fit for me.
 
-My Products are not all for all. I don't offer refunds on my products. Read the sale page properly, and if it makes sense, then only buy from me.
+[My Products](https://houseconstructionguide.com/products/) are not all for all. I don't offer refunds on my products. Read the sale page properly, and if it makes sense, then only buy from me.

@@ -1,7 +1,7 @@
 ---
 title: "A 'wired' network issue…"
-date: 2024-12-20T14:49:29+05:30
-lastmod: 2024-12-20T14:49:29+05:30
+date: 2024-08-25T14:49:29+05:30
+lastmod: 2024-08-25T14:49:29+05:30
 author: ["P K Arun"]
 tags: ['House construction','network issue','building']
 
@@ -68,7 +68,7 @@ Consulting a professional network of engineers is a costly thing.
 
 Most electricians don't know how to do proper wiring…
 
-If you need internet service in every corner of your house without speed drop, WiFi signal issue, or any router limit, read my Internet Everywhere Guide.
+If you need internet service in every corner of your house without speed drop, WiFi signal issue, or any router limit, read [my Internet Everywhere Guide.](https://houseconstructionguide.com/internet-everywhere/)
 
 I shared all my practical knowledge… which I implemented in both my building and using it successfully. 
 

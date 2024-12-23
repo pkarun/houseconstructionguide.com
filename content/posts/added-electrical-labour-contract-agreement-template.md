@@ -1,7 +1,7 @@
 ---
 title: "Added: Electrical Labour Contract Agreement Template"
-date: 2024-12-21T11:25:32+05:30
-lastmod: 2024-12-21T11:25:32+05:30
+date: 2024-12-09T11:25:32+05:30
+lastmod: 2024-12-09T11:25:32+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','agreement','contract']
 
@@ -30,4 +30,4 @@ They don't even come close to what you see inside the member's area.
 
 Currently, I don't have any separate sales page for these. I focus on adding content inside the member's area rather than writing a sales page for every guide.
 
-If you want these agreement templates, you can get them by joining the HCG All-Access Pass.
+If you want these agreement templates, you can get them [by joining the HCG All-Access Pass](https://houseconstructionguide.com/products/#all-access-pass)

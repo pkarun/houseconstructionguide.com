@@ -1,7 +1,7 @@
 ---
 title: "Product was missing"
-date: 2024-12-20T15:56:31+05:30
-lastmod: 2024-12-20T15:56:31+05:30
+date: 2024-09-28T15:56:31+05:30
+lastmod: 2024-09-28T15:56:31+05:30
 author: ["P K Arun"]
 tags: ['House construction','product','missing']
 
@@ -46,7 +46,7 @@ In extremely rare cases, mistakes happen. If you are not bothered by such things
 
 You save a lot online instead of offline shopping.
 
-Visit this Great Indian Festival sale page or my recommended products category that you should buy online for your house during or after house construction to save money.
+[Visit this Great Indian Festival sale page or my recommended products category that you should buy online for your house during or after house construction to save money.](https://houseconstructionguide.com/products-i-recommend-buying-online/)
 
 From yesterday onwards, I've been tired of attending delivery calls back to back.
 

@@ -1,7 +1,7 @@
 ---
 title: "₹2,78,760 Saved by Following this One Tip"
-date: 2024-12-20T15:42:23+05:30
-lastmod: 2024-12-20T15:42:23+05:30
+date: 2024-09-20T15:42:23+05:30
+lastmod: 2024-09-20T15:42:23+05:30
 author: ["P K Arun"]
 tags: ['House construction',money saving,'tip']
 
@@ -48,4 +48,4 @@ If you have access to the Building Contractor Guide, please download the updated
 
 I also added another tip to safeguard yourself from accidents at 3.16.
 
-If you don't have access, read more details about my Building Contractor Guide here. If it makes sense, you can purchase it.
+If you don't have access, [read more details about my Building Contractor Guide here.](https://houseconstructionguide.com/building-contractor-guide/) If it makes sense, you can purchase it.

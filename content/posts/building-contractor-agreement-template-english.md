@@ -1,7 +1,7 @@
 ---
 title: "Building Contractor Agreement Template in English"
-date: 2024-12-21T05:37:59+05:30
-lastmod: 2024-12-21T05:37:59+05:30
+date: 2024-10-15T05:37:59+05:30
+lastmod: 2024-10-15T05:37:59+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','agreement',contractor']
 
@@ -42,6 +42,6 @@ This agreement comes in the English language. I created two popular versions of 
 
 I'm offering this agreement template inside my Building Contractor Guide in the 2.4 section. If you have access to the building contractor guide, please download the latest version of the guide to see the download link.
 
-If you don't have access, you get it by buying the Building Contractor Guide here:
+If you don't have access, you get it by buying the [Building Contractor Guide here:](https://houseconstructionguide.com/building-contractor-guide/)
 
 I still have not updated the Agreement template on the above sales page, but you will get access inside the guide.

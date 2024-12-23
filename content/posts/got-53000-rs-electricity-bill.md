@@ -1,7 +1,7 @@
 ---
 title: "Got 53000 Rs Electricity Bill"
-date: 2024-12-21T11:19:21+05:30
-lastmod: 2024-12-21T11:19:21+05:30
+date: 2024-11-28T11:19:21+05:30
+lastmod: 2024-11-28T11:19:21+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','electricity bill']
 
@@ -48,6 +48,6 @@ We also got scammed by our first building electrical contractor and learned our 
 
 Choosing the wrong electrical contractor costs you a lot in terms of money and time.
 
-When hiring an electrical contractor, ensure you do your groundwork before hiring. If you need my tips, I shared them here.
+When hiring an electrical contractor, ensure you do your groundwork before hiring. If you need my tips, [I shared them here](https://houseconstructionguide.com/electrical-work-guide/).
 
 Arun

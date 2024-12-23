@@ -1,7 +1,7 @@
 ---
 title: "Contractors are not ready to sign the Agreement"
-date: 2024-12-20T16:15:45+05:30
-lastmod: 2024-12-20T16:15:45+05:30
+date: 2024-10-07T16:15:45+05:30
+lastmod: 2024-10-07T16:15:45+05:30
 author: ["P K Arun"]
 tags: ['House construction','contractors','building','agreement']
 
@@ -57,6 +57,6 @@ If you also come across similar situations, don't work with contractors who are 
 
 Once they start work without proper agreement, it's really difficult to deal with when issues happen.
 
-One my good suggestions to all first-time house construction users is to implement what I shared inside my House Construction Tracking System Guide to easily deal with contractors when any issue happens.
+One my good suggestions to all first-time house construction users is to implement what I shared [inside my House Construction Tracking System Guide](https://houseconstructionguide.com/house-construction-tracking-system/) to easily deal with contractors when any issue happens.
 
 Arun

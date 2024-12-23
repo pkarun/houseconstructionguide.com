@@ -1,7 +1,7 @@
 ---
 title: "How to Spend More and Make Building Look Old"
-date: 2024-12-21T07:21:54+05:30
-lastmod: 2024-12-21T07:21:54+05:30
+date: 2024-10-28T07:21:54+05:30
+lastmod: 2024-10-28T07:21:54+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building']
 
@@ -42,7 +42,7 @@ Think and make decisions.
 
 Granite is a good choice for maintenance-free flooring.
 
-Suppose you want to use granite flooring and want to know the granite pricing and labour charges we paid. In that case, I have shared all those details inside my Our House Construction Expenses product.
+Suppose you want to use granite flooring and want to know the granite pricing and labour charges we paid. In that case, I have shared all those details [inside my Our House Construction Expenses product.](https://houseconstructionguide.com/our-house-construction-expenses/)
 
 Sometimes, it helps to know the price on average to better negotiate with the sellers.
 

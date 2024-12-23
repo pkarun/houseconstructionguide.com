@@ -1,7 +1,7 @@
 ---
 title: "I was speaking about Quality in construction"
-date: 2024-12-21T11:10:50+05:30
-lastmod: 2024-12-21T11:10:50+05:30
+date: 2024-11-21T11:10:50+05:30
+lastmod: 2024-11-21T11:10:50+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','quality']
 
@@ -60,4 +60,4 @@ I don't have a material contract agreement template, but I have a Detailed Labou
 
 If you use the Labour Contract method to construct your house, you can use my agreement template.
 
-Watch how detailed my labour contract agreement is >>
+[Watch how detailed my labour contract agreement is >>](https://www.youtube.com/watch?v=As2vy9PUqFg)

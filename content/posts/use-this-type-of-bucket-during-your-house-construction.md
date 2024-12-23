@@ -1,7 +1,7 @@
 ---
 title: "Use this type of Bucket during your House Construction"
-date: 2024-12-21T10:52:14+05:30
-lastmod: 2024-12-21T10:52:14+05:30
+date: 2024-11-13T10:52:14+05:30
+lastmod: 2024-11-13T10:52:14+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','bucket']
 
@@ -64,4 +64,4 @@ I'm not going to promise it will work for all. To my knowledge, it should work, 
 
 If it works, You're gonna save a lot on cement. If not, you lose whatever price you paid for the guide. So, I kept the price of the product to just ₹299.
 
-Read the sales page properly and buy if you are interested in this.
+Read the [sales page properly and buy if you are interested in this.](https://houseconstructionguide.com/cement-pricing-secrets/)

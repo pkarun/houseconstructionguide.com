@@ -1,7 +1,7 @@
 ---
 title: "A player and our Solar Tube... A point you need to keep in mind"
-date: 2024-12-21T10:29:23+05:30
-lastmod: 2024-12-21T10:29:23+05:30
+date: 2024-11-06T10:29:23+05:30
+lastmod: 2024-11-06T10:29:23+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','solar tube','cctv']
 
@@ -44,7 +44,7 @@ If you plan to install a solar water heater, keep this availability of solar tub
 
 If you still choose a solar water heater for your house, you must know a few things during construction.
 
-I shared all those things inside my building contractor guide with photos. Read those tips before or during construction time to avoid alternative options.
+I shared all those things inside [my building contractor guide with photos](https://houseconstructionguide.com/building-contractor-guide/). Read those tips before or during construction time to avoid alternative options.
 
 No. Most contractors don't guide you such things.
 

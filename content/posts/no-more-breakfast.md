@@ -1,7 +1,7 @@
 ---
 title: "No more breakfast"
-date: 2024-12-21T11:02:17+05:30
-lastmod: 2024-12-21T11:02:17+05:30
+date: 2024-11-18T11:02:17+05:30
+lastmod: 2024-11-18T11:02:17+05:30
 author: ["P K Arun"]
 tags: ['House Construction','breakfast']
 
@@ -60,4 +60,4 @@ Afternoon, they didn't make the same mistake.
 
 Keep in mind that doing any kind of function is not easy.
 
-I shared some personal lessons about doing our Housewarming function inside my guide.
+I shared some personal lessons about doing our Housewarming function [inside my guide](https://houseconstructionguide.com/housewarming-function/).

@@ -1,7 +1,7 @@
 ---
 title: "Using cotton mattress? here's a better alternative"
-date: 2024-12-21T07:09:20+05:30
-lastmod: 2024-12-21T07:09:20+05:30
+date: 2024-10-21T07:09:20+05:30
+lastmod: 2024-10-21T07:09:20+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','mattress']
 
@@ -20,7 +20,7 @@ Today, one of our tenants (a student) asked me to collect his mattress as he won
 
 ** My daughter came, so I took a 15-minute break **
 
-This is the same mattress my brother is also using. After using it for a few days here and there, I can say… it's really better to opt for a wake-fit mattress than a cotton mattress.
+This is the same mattress my brother is also using. After using it for a few days here and there, I can say… [it's really better to opt for a wake-fit mattress than a cotton mattress.](https://www.amazon.in/s?k=wakefit+mattress&crid=17PPLLM2ZJFVQ&sprefix=wakefit+mattress%2Caps%2C216&linkCode=ll2&tag=newsite0003-21&linkId=1bc59cb5cbb7eaf34f0632f595c332f3&language=en_IN&ref_=as_li_ss_tl)
 
 In fact, my mom was also impressed by this Wakefit mattress sleeping experience.
 

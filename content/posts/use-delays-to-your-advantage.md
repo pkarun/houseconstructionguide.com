@@ -1,7 +1,7 @@
 ---
 title: "Use delays to your advantage"
-date: 2024-12-21T11:21:40+05:30
-lastmod: 2024-12-21T11:21:40+05:30
+date: 2024-12-03T11:21:40+05:30
+lastmod: 2024-12-03T11:21:40+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','delay','advantage']
 
@@ -36,6 +36,6 @@ I immediately remembered this strategy as soon as I learned that the cot guys ha
 
 I thought I could have used it here as well. On the day of the order, I didn't go there.
 
-It's better to follow my house construction tracking system to execute this idea successfully, or it could fail.
+It's better to follow [my house construction tracking system](https://houseconstructionguide.com/house-construction-tracking-system/) to execute this idea successfully, or it could fail.
 
 This is a system/guide designed to execute many such things without fail.

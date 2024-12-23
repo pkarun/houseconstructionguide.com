@@ -1,7 +1,7 @@
 ---
 title: "I locked the room, keeping key inside 🙁"
-date: 2024-12-20T16:11:54+05:30
-lastmod: 2024-12-20T16:11:54+05:30
+date: 2024-10-04T16:11:54+05:30
+lastmod: 2024-10-04T16:11:54+05:30
 author: ["P K Arun"]
 tags: ['House construction','locked','key','room']
 
@@ -62,7 +62,7 @@ I also thanked him for opening the room key.
 
 When I came back to Bangalore, I searched YouTube about cylindrical locks. Multiple people showed different ways to unlock them very easily.
 
-So… I want to remind you that if you plan to install a cylindrical lock for the backside door or any outside door, keep in mind that -- it is dead easy to open the lock without key.
+So… I want to remind you that if you plan to [install a cylindrical lock](https://www.amazon.in/s?k=Europa+cylindrical+lock&crid=GJJRZA8IT2M2&sprefix=europa+cylindrical+lock%2Caps%2C193&linkCode=ll2&tag=newsite0003-21&linkId=2df223d17b08069b34a4ed8554c95b20&language=en_IN&ref_=as_li_ss_tl) for the backside door or any outside door, keep in mind that -- it is dead easy to open the lock without key.
 
 Avoid installing Locks that don't require a key to lock. You may accidentally get locked out. Which is not something anyone wishes to be in the situation.
 

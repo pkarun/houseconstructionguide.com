@@ -1,7 +1,7 @@
 ---
 title: "Pujari knows the importance of LAN setup"
-date: 2024-12-04T11:51:45+05:30
-lastmod: 2024-12-21T11:51:45+05:30
+date: 2024-11-10T11:51:45+05:30
+lastmod: 2024-11-10T11:51:45+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','LAN']
 
@@ -54,7 +54,7 @@ My friend thought WiFi would do the job.
 
 I don't argue with him because I won't get paid.
 
-If you want to listen to my suggestion, implement what I shared in my Electrical Work Guide and Internet Everywhere guide.
+If you want to listen to my suggestion, implement what I shared in [my Electrical Work Guide and Internet Everywhere guide.](https://houseconstructionguide.com/products/)
 
 Here, I can recommend best practice because I get paid for doing so…
 

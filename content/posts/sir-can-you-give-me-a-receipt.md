@@ -1,7 +1,7 @@
 ---
 title: "Sir, can you give me a receipt?"
-date: 2024-12-21T05:40:06+05:30
-lastmod: 2024-12-21T05:40:06+05:30
+date: 2024-10-16T05:40:06+05:30
+lastmod: 2024-10-16T05:40:06+05:30
 author: ["P K Arun"]
 tags: ['House Construction','receipt']
 
@@ -74,4 +74,4 @@ Once the project starts, they will realise their mistakes when they face issues 
 
 To prevent Most such issues, having a proper agreement helps.
 
-If you plan to build a house using a labour contract method, here is my recommended building contractor agreement template.
+If you plan to build a house using a labour contract method, [here is where you can get my recommended building contractor agreement template.](https://houseconstructionguide.com/building-contractor-guide/)

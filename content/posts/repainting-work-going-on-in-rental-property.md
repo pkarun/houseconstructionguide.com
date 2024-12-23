@@ -1,7 +1,7 @@
 ---
 title: "Repainting work going on in rental property"
-date: 2024-12-20T16:17:44+05:30
-lastmod: 2024-12-20T16:17:44+05:30
+date: 2024-10-08T16:17:44+05:30
+lastmod: 2024-10-08T16:17:44+05:30
 author: ["P K Arun"]
 tags: ['House construction','repainting','rental property'] 
 
@@ -36,7 +36,7 @@ It's difficult to paint the outside grill without a painter's rope. But still, I
 
 No matter what, some mistakes always happen.
 
-Another issue I'm actively watching in all my rental property is shared inside my Electrical Work Guide at 5.63.
+Another issue I'm actively watching in all my rental property is shared inside [my Electrical Work Guide at 5.63.](https://houseconstructionguide.com/electrical-work-guide/)
 
 I also got that issue in this unit as well. Once my brother comes, we will go and fix that issue.
 

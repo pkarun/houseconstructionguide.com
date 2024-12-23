@@ -1,7 +1,7 @@
 ---
 title: "Relatives don't feel comfortable shopping online"
-date: 2024-12-20T15:49:57+05:30
-lastmod: 2024-12-20T15:49:57+05:30
+date: 2024-09-25T15:49:57+05:30
+lastmod: 2024-09-25T15:49:57+05:30
 author: ["P K Arun"]
 tags: ['House construction','shopping','relatives']
 
@@ -46,6 +46,6 @@ This is the right time to order expensive items for a bigger discount.
 
 Once the sale starts, I will be talking more about the products you could buy.
 
-Oh… if your mobile is slow, it could be the right time to easily exchange your old phone with a new one online.
+Oh… if your mobile is slow, it could be the right time to [easily exchange your old phone with a new one online.](https://www.amazon.in/s?k=mobile+exchange+offer&crid=17ZRFAQB67TSY&sprefix=mobile+exch%2Caps%2C250&linkCode=ll2&tag=newsite0003-21&linkId=efe45b5bad60a0e95c7959b10e4cfd97&language=en_IN&ref_=as_li_ss_tl)
 
 Arun

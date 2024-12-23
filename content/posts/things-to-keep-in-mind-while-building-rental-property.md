@@ -1,7 +1,7 @@
 ---
 title: "things to keep in mind while building rental property"
-date: 2024-12-21T11:23:15+05:30
-lastmod: 2024-12-21T11:23:15+05:30
+date: 2024-12-06T11:23:15+05:30
+lastmod: 2024-12-06T11:23:15+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','rental property']
 
@@ -34,4 +34,4 @@ When building your rental property, always keep one thing in mind.
 
 If you keep that thing in mind and build your property, it will help a lot in the rest of your rental property journey.
 
-You can get it here if you want to learn from my experience managing 32-door rental units.
+[You can get it here](https://houseconstructionguide.com/products/) if you want to learn from my experience managing 32-door rental units.

@@ -1,7 +1,7 @@
 ---
 title: "Plinth beam work is going on but same parking mistake"
-date: 2024-12-20T15:04:17+05:30
-lastmod: 2024-12-20T15:04:17+05:30
+date: 2024-09-06T15:04:17+05:30
+lastmod: 2024-09-06T15:04:17+05:30
 author: ["P K Arun"]
 tags: ['House construction','plinth beam','parking']
 
@@ -30,7 +30,7 @@ It's your responsibility to know the ins and outs of a building.
 
 I'm doing my job in alerting and guiding you….
 
-If you don't want to commit the same sin done by many other users, tap on Parking Horror Guide and avoid making the same mistake as others.
+If you don't want to commit the same sin done by many other users, [tap on Parking Horror Guide and avoid making the same mistake](https://houseconstructionguide.com/parking-horror/) as others.
 
 More similar mistakes on this topic are shared on the below link if you need to explore more on this:
 

@@ -1,7 +1,7 @@
 ---
 title: "What might you be undervaluing right now?"
-date: 2024-12-21T11:12:13+05:30
-lastmod: 2024-12-21T11:12:13+05:30
+date: 2024-11-22T11:12:13+05:30
+lastmod: 2024-11-22T11:12:13+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','undervalue']
 
@@ -22,7 +22,7 @@ We undervalue wealth if we have not recently experienced poverty.
 
 We undervalue kindness if we have not recently experienced cruelty.
 
-We undervalue avoiding construction mistakes until we face problems in a newly built house.
+We undervalue [avoiding construction mistakes](https://houseconstructionguide.com/products/) until we face problems in a newly built house.
 
 What might you be undervaluing right now?
 

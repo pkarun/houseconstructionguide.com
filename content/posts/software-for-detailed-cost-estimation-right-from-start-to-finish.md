@@ -1,7 +1,7 @@
 ---
 title: "Software for detailed cost estimation right from Start to finish"
-date: 2024-12-21T11:30:36+05:30
-lastmod: 2024-12-21T11:30:36+05:30
+date: 2024-12-20T11:30:36+05:30
+lastmod: 2024-12-20T11:30:36+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','cost estimation']
 

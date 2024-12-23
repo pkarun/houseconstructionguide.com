@@ -1,7 +1,7 @@
 ---
 title: "Ayudha Puja collection"
-date: 2024-12-20T16:24:48+05:30
-lastmod: 2024-12-20T16:24:48+05:30
+date: 2024-10-09T16:24:48+05:30
+lastmod: 2024-10-09T16:24:48+05:30
 author: ["P K Arun"]
 tags: ['House construction','ayudha pooja','collection']
 
@@ -34,7 +34,7 @@ Last year, he came and collected with us.
 
 You will also get such extra expenses when you are constructing your house.
 
-I shared a tip at 3.10 in my Building Contractor Guide to prevent this type of unexpected expense.
+I shared a tip at [3.10 in my Building Contractor Guide](https://houseconstructionguide.com/building-contractor-guide/) to prevent this type of unexpected expense.
 
 Keep those tips in mind while speaking to contractors.
 

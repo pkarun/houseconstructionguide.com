@@ -1,7 +1,7 @@
 ---
 title: "For Saying Yes Now Im Attending Calls"
-date: 2024-12-02T12:23:26+05:30
-lastmod: 2024-12-21T12:23:26+05:30
+date: 2024-10-22T12:23:26+05:30
+lastmod: 2024-10-22T12:23:26+05:30
 author: ["P K Arun"]
 tags: []
 slug: "for-saying-yes-now-im-attending-calls"
@@ -55,7 +55,7 @@ You will understand its issues if you start using Excel sheets in a real environ
 
 Excel sheets should be part of the system. Not a whole system.
 
-If you want to keep a proper system to manage all the transactions, here is what I used to do in my second house construction.
+If you want to keep a proper system to manage all the transactions, [here is what I used to do in my second house construction.](https://houseconstructionguide.com/house-construction-tracking-system/)
 
 I explained all the tools and how I used them during my second house construction in my House Construction Tracking System guide.
 

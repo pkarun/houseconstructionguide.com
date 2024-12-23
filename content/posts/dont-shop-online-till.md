@@ -1,14 +1,14 @@
 ---
 title: "Dont Shop Online Till"
-date: 2024-12-20T14:55:58+05:30
-lastmod: 2024-12-20T14:55:58+05:30
+date: 2024-09-03T14:55:58+05:30
+lastmod: 2024-09-03T14:55:58+05:30
 author: ["P K Arun"]
 tags: ['House construction','shopping','online']
 
 slug: "dont-shop-online-till"
 ---
 
-After having a good tea sitting under a 2-speed Atomberg BLDC fan in my Home office, I'm writing today's email.
+After having a good tea sitting under a [2-speed Atomberg BLDC fan](https://www.amazon.in/s?k=atomberg+bldc+ceiling+fan&crid=1PYGBNCZ0CVC1&sprefix=atomberg+bldc+ceiling+fan%2Caps%2C189&linkCode=ll2&tag=newsite0003-21&linkId=0396211b24b4ba59b9198658475a5c63&language=en_IN&ref_=as_li_ss_tl) in my Home office, I'm writing today's email.
 
 Today, email about saving money on your online shopping.
 
@@ -34,6 +34,6 @@ If you are not an online shopper, I still recommend try buying at least small it
 
 From small items to big home appliances, we order online and save.
 
-Here are some of the product categories I recommend buying online instead of offline shops to save more if you are constructing a new home:
+Here are some of the [product categories I recommend buying online instead of offline shops to save more](https://houseconstructionguide.com/products-i-recommend-buying-online/) if you are constructing a new home:
 
 Arun

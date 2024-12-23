@@ -1,7 +1,7 @@
 ---
 title: "They are in the business to make money"
-date: 2024-12-20T16:14:05+05:30
-lastmod: 2024-12-20T16:14:05+05:30
+date: 2024-10-05T16:14:05+05:30
+lastmod: 2024-10-05T16:14:05+05:30
 author: ["P K Arun"]
 tags: ['House construction','business','money making']
 
@@ -64,7 +64,7 @@ If we simply went with what the contractors wanted in the agreement, then I'm su
 
 My dad is knowledgeable about this agreement framing and wanted to go only with what he suggested. Because of such conditions, contractors didn't save much.
 
-I shared all such contract framing tips inside my Building Contractor Guide.
+I shared all such contract framing tips [inside my Building Contractor Guide.](https://houseconstructionguide.com/building-contractor-guide/)
 
 That's for it today,
 

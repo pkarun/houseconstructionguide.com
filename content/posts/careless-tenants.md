@@ -1,7 +1,7 @@
 ---
 title: "Careless Tenants"
-date: 2024-12-20T15:14:25+05:30
-lastmod: 2024-12-20T15:14:25+05:30
+date: 2024-09-08T15:14:25+05:30
+lastmod: 2024-09-08T15:14:25+05:30
 author: ["P K Arun"]
 tags: ['House construction','tenants','careless']
 
@@ -42,6 +42,6 @@ For the second building, we learned our lesson very well after dealing with this
 
 We not only learned just choosing a good electrical contractor, we learned a lot from this guy…
 
-Every lesson I learned from this guy in a hard way is shared in my electrical work guide.
+Every lesson I learned from this guy in a hard way is shared in [my electrical work guide.](https://houseconstructionguide.com/electrical-work-guide/)
 
 Arun

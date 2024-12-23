@@ -1,7 +1,7 @@
 ---
 title: "how this owner wasted almost 3K by assuming himself"
-date: 2024-12-20T15:29:03+05:30
-lastmod: 2024-12-20T15:29:03+05:30
+date: 2024-09-13T15:29:03+05:30
+lastmod: 2024-09-13T15:29:03+05:30
 author: ["P K Arun"]
 tags: ['House construction','owner','money waste']
 
@@ -38,6 +38,6 @@ They will suggest where they can install the machine, where they need msand, whe
 
 After that only keep materials as they suggest to avoid extra time and money wastage.
 
-I have an important thing I need to share regarding molding if ground floor molding is not yet done. I shared that tip in my During Moding Time guide.
+I have an important thing I need to share regarding molding if ground floor molding is not yet done. I shared that [tip in my During Moding Time guide.](https://houseconstructionguide.com/during-molding-time/)
 
 I highly recommend that you strictly follow what I shared in the guide.

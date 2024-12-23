@@ -1,7 +1,7 @@
 ---
 title: "One of the Home Owner Problem and the Solution I Discovered"
-date: 2024-08-17T11:09:19+05:30
-lastmod: 2024-08-17T11:09:19+05:30
+date: 2024-08-10T11:09:19+05:30
+lastmod: 2024-08-10T11:09:19+05:30
 author: ["P K Arun"]
 tags: 
 - sump

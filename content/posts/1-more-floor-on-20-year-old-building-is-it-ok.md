@@ -1,7 +1,7 @@
 ---
 title: "1 more floor on 20 year old building, is it ok?"
-date: 2024-12-20T14:04:23+05:30
-lastmod: 2024-12-20T14:04:23+05:30
+date: 2024-08-24T14:04:23+05:30
+lastmod: 2024-08-24T14:04:23+05:30
 author: ["P K Arun"]
 tags: ['House construction','more floor','building']
 
@@ -70,4 +70,4 @@ If users avoid a few mistakes by reading my guide and sharing their feedback, I 
 
 Arun
 
-PS: This user refers to the content inside my HCG All-Access Pass. Where I share house construction tips, mistakes & best practices that first-time owner usually don't give attention to while constructing their house.
+PS: This user refers to the [content inside my HCG All-Access Pass.](https://houseconstructionguide.com/products/#all-access-pass) Where I share house construction tips, mistakes & best practices that first-time owner usually don't give attention to while constructing their house.

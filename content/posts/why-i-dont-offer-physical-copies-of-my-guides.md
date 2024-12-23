@@ -1,7 +1,7 @@
 ---
 title: "Why I don't offer Physical copies of my guides"
-date: 2024-12-21T10:56:48+05:30
-lastmod: 2024-12-21T10:56:48+05:30
+date: 2024-11-14T10:56:48+05:30
+lastmod: 2024-11-14T10:56:48+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','guides']
 
@@ -56,7 +56,7 @@ If they don't know how to use a PC or Excel sheet or have a computer, I don't re
 
 Clear and straightforward.
 
-If you are one of them, please don't buy my products. If not, go ahead.
+If you are one of them, please don't buy my products. If not, [go ahead](https://houseconstructionguide.com/products/).
 
 Arun
 

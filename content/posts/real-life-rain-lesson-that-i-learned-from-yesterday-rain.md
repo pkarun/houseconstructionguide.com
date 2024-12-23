@@ -1,7 +1,7 @@
 ---
 title: "Real life Rain lesson that I learned from Yesterday rain..."
-date: 2024-12-21T07:14:54+05:30
-lastmod: 2024-12-21T07:14:54+05:30
+date: 2024-10-23T07:14:54+05:30
+lastmod: 2024-10-23T07:14:54+05:30
 author: ["P K Arun"]
 tags: ['House Construction','rain'] 
 
@@ -34,6 +34,6 @@ No matter who you hire for your house construction work, it's your responsibilit
 
 Or else you are the one who pays the price later.
 
-That's why I'm sharing all my lessons inside my guides so smart people who invested in my guides can learn and avoid making my mistakes in their building.
+That's why I'm sharing all my lessons inside my guides so smart people [who invested in my guides](https://houseconstructionguide.com/products/) can learn and avoid making my mistakes in their building.
 
 Whatever problem we noticed in our building is mostly fixable… but in our neighbour's case, it costs a lot to fix permanently. That's why they do manual work every time it rains to prevent further damage to the building.

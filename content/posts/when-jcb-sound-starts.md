@@ -1,7 +1,7 @@
 ---
 title: "When JCB sound starts…"
-date: 2024-12-20T15:31:31+05:30
-lastmod: 2024-12-20T15:31:31+05:30
+date: 2024-09-16T15:31:31+05:30
+lastmod: 2024-09-16T15:31:31+05:30
 author: ["P K Arun"]
 tags: ['House construction','JCB','building']
 
@@ -26,6 +26,6 @@ It depends on the place and people near your site. This doesn't happen in all pl
 
 Just sharing so you are aware of it. 
 
-Today, I added one more important and a money-saving tip to the Building Contractor Guide. If you have not yet done your earthwork, read the tip in section 4.68 (46th page).
+Today, I added one more important and a [money-saving tip to the Building Contractor Guide.](https://houseconstructionguide.com/building-contractor-guide/) If you have not yet done your earthwork, read the tip in section 4.68 (46th page).
 
 Arun

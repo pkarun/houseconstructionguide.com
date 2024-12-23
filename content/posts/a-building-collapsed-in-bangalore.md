@@ -1,7 +1,7 @@
 ---
 title: "A building collapsed in Bangalore"
-date: 2024-12-21T07:16:40+05:30
-lastmod: 2024-12-21T07:16:40+05:30
+date: 2024-10-24T07:16:40+05:30
+lastmod: 2024-10-24T07:16:40+05:30
 author: ["P K Arun"]
 tags: ['House Construction','building','collapse']
 
@@ -30,7 +30,7 @@ It happens.
 
 Contractors also don't show interest in building sub-par quality buildings. If something goes wrong, they are also held responsible…
 
-Or the contractor might had a dispute with the owner and left the project without finishing?
+Or the [contractor might had a dispute with the owner](https://houseconstructionguide.com/house-construction-tracking-system/) and left the project without finishing?
 
 Whatever may be the reason.
 

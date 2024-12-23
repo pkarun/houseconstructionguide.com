@@ -1,7 +1,7 @@
 ---
 title: "Engineer measurement to easy to understand way"
-date: 2024-12-20T15:26:53+05:30
-lastmod: 2024-12-20T15:26:53+05:30
+date: 2024-09-12T15:26:53+05:30
+lastmod: 2024-09-12T15:26:53+05:30
 author: ["P K Arun"]
 tags: ['House construction','measurement','building']
 
@@ -38,7 +38,7 @@ The more family members, contractors, friends present on that day, better the id
 
 There is no better suggestion than this tip to experience room sizes.
 
-Most important, valuable, and common mistakes realted to construction are shared in my building contractor guide.
+Most important, valuable, and common mistakes realted to construction [are shared in my building contractor guide.](https://houseconstructionguide.com/building-contractor-guide/)
 
 These mistakes are like make once, and suffer longer time kind of…
 

@@ -1,7 +1,7 @@
 ---
 title: "A big fight for a silly reason"
-date: 2024-12-20T15:48:11+05:30
-lastmod: 2024-12-20T15:48:11+05:30
+date: 2024-09-23T15:48:11+05:30
+lastmod: 2024-09-23T15:48:11+05:30
 author: ["P K Arun"]
 tags: ['House construction','big fight','silly reasons']
 
