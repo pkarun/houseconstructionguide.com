@@ -4,11 +4,10 @@ date: Mon, 22 Jul 2019 18:31:10 +0000
 draft: false
 ---
 
-**Name:** Arun
+**Name:** P K Arun
 
-**Email:** arun@houseconstructionguide.com
+**Email:** arun [at] houseconstructionguide.com
 
-**WhatsApp:** +918088357276
 
 **Physical Address:**
 
