@@ -5,8 +5,7 @@ draft: false
 slug: "free"
 ---
 
-Here are the free resources from my end. Some may require to Subscribe to email newsletter to get access.
+Here are the free resources from my end. 
 
-1.  [Instant Name Numerology Calculator (Chaldean System)](https://houseconstructionguide.com/instant-name-numerology-calculator.html)
-2.  [House Construction Expense Calculator](https://houseconstructionguide.com/house-construction-expense-calculator/)
-3.  [House Construction Agreement Format in Kannada](https://houseconstructionguide.com/house-construction-agreement-format-in-kannada/)
+1.  [Categorywise House Construction Expense Calculator](https://offers.houseconstructionguide.com/free/categorywise-house-construction-expenses-calculator.html)
+2.  [House Construction Agreement Format (Kannada)](https://offers.houseconstructionguide.com/free/kannada-building-labour-contract-agreement.html)

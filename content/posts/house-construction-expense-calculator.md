@@ -37,5 +37,5 @@ Your engineer will ask about your requirements and prepare your house constructi
 
 Our engineer gave almost 98% accurate construction estimation. It was that accurate…
 
-### [>>Download Free House Construction Cost Estimator](https://houseconstructionguide.com/free-resource/house-construction-cost-estimator.html)
+### [>>Download Free House Construction Cost Estimator](https://offers.houseconstructionguide.com/free/categorywise-house-construction-expenses-calculator.html)
 

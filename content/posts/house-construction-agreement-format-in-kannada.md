@@ -34,4 +34,4 @@ I shared plenty of tips in my guide to help first-time house builders save money
 
 Anyway, below is my building agreement. And none of the tips I shared is executed in this agreement. Those are the lessons I learned later.
 
-**[Download My Building Labour Contract Agreement Here](https://houseconstructionguide.com/free-resource/house-construction-agreement)**
+**[Download My Building Labour Contract Agreement Here](https://offers.houseconstructionguide.com/free/kannada-building-labour-contract-agreement.html)**
