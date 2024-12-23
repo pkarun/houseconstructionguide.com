@@ -40,7 +40,7 @@ The good thing is there is some workaround to prevent those bad things.
 
 The building, which was shifting blocks, made 2nd and 3rd mistakes. 1st mistake, I cannot see it from home, so I cannot confirm that.
 
-After seeing those mistakes, I added a Material Shifting Tips at 4.69 section inside my Building Contractor Guide.
+After seeing those mistakes, I added a Material Shifting Tips at [4.69 section inside my Building Contractor Guide](https://houseconstructionguide.com/building-contractor-guide/).
 
 In this section, I shared a few things you should keep in mind before and while doing material shifting with the gang team.
 

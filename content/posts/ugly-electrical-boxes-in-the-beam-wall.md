@@ -36,7 +36,7 @@ I initially thought that our first building electrical contractor was the only o
 
 I felt wrong after seeing the similar work in that room.
 
-So, I just added another point inside the Electrical work guide regarding How to Pick the Right Electrical Contractor in the 1.5 section.
+So, I just added another point inside the Electrical work guide regarding [How to Pick the Right Electrical Contractor in the 1.5 section](https://houseconstructionguide.com/electrical-work-guide/).
 
 Go through that point, see the image, read the tip, and follow all the instructions while picking an electrical contractor for your building.
 

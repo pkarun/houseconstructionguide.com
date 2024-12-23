@@ -52,7 +52,7 @@ By the way, if you are in the construction field, knowing this knowledge would h
 
 You could charge a consultation fee for giving such ideas… (I would happily pay for solving such a painful problem).
 
-If this interests you, [visit the sump valve automation guide to know more & get it at a discount](https://houseconstructionguide.com/sump-valve-automation/).
+If this interests you, [visit the sump valve automation guide to know more](https://houseconstructionguide.com/sump-valve-automation/).
 
 My wife's parents are coming home today, so I am writing this email in the afternoon itself. 
 

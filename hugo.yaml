@@ -38,10 +38,6 @@ menu:
     name: About Us
     url: /about-us/
     weight: 20
-  - identifier: Products
-    name: Products
-    url: /products/
-    weight: 30  
   - identifier: Search
     name: Search
     url: /search/

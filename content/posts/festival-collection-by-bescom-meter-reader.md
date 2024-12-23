@@ -61,4 +61,4 @@ If you didn't speak, you may pay more to your contractor.
 
 In both of the buildings, this happened to us.
 
-[\>> Read #3.10 and implement while making an agreement or discussion time.](https://houseconstructionguide.com/building-contractor-guide/)
+[>> Read #3.10 and implement while making an agreement or discussion time.](https://houseconstructionguide.com/building-contractor-guide/)

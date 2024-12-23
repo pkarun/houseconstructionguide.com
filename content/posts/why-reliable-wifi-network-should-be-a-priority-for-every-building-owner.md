@@ -50,7 +50,7 @@ That's how anyone should plan if you are going to offer internet service, or els
 
 No one will go outside to use the internet. It's not the best experience.
 
-I don't know how much experience you have with network setup, but I shared my recommended network setup for construction building in my Internet Everywhere Guide.
+I don't know how much experience you have with network setup, but I shared [my recommended network setup for construction building in my Internet Everywhere Guide](https://houseconstructionguide.com/internet-everywhere/).
 
 Read it, Understand it and Implement it.
 

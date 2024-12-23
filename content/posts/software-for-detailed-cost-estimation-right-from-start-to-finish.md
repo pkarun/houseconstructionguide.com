@@ -67,7 +67,7 @@ This is just an estimated cost based on my construction expenses. So you shouldn
 
 Still, it shows a rough budget category-wise, which could be useful for some users.
 
-This calculator is a part of my Our House Construction Expenses Product.
+This calculator is a part of [my Our House Construction Expenses Product](https://houseconstructionguide.com/our-house-construction-expenses/).
 
 I actually sold this Excel sheet for up to ₹99. 
 

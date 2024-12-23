@@ -44,7 +44,7 @@ These rental property tips will help you to maximize operational efficiency, ren
 
 This is some knowledge that I gained after managing our own rental units.
 
-I will be sharing all those tips and lessons in my upcoming guide, Rental Property Guide.
+I will be sharing all those tips and lessons in my upcoming guide, [Rental Property Guide](https://houseconstructionguide.com/products/#27-rental-property-construction-guide).
 
 Now the guide is almost ready. It will soon be added to the member's area.
 
