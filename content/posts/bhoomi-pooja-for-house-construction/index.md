@@ -29,7 +29,7 @@ Each priest performs bhoomi pooja in a different style. So the requirements to p
 
 I'm going to share a list of requirements given by my priest to perform bhoomi pooja:
 
-![bhoomi pooja requirements](/images/2023/07/bhoomi-pooja-requirements.jpg)
+![bhoomi pooja requirements](/bhoomi-pooja-for-house-construction/images/bhoomi-pooja-requirements.jpg)
 
 bhoomi pooja requirements given by our priest
 
@@ -134,7 +134,7 @@ On that day, our priest performed the below pooja during bhoomi pooja:
 *   Bhukanana pooja
 *   Kalash Sthapana
 
-![](/images/2023/07/poojas-performed.jpg)
+![](/bhoomi-pooja-for-house-construction/images/poojas-performed.jpg)
 
 list of poojas did on bhoomi pooja day
 
@@ -144,7 +144,7 @@ You make sure to bring all the pooja requirements before the pooja date. On pooj
 
 ### **Preparing Site:**
 
-![](/images/2023/07/before-site-cleaning.jpg)
+![](/bhoomi-pooja-for-house-construction/images/before-site-cleaning.jpg)
 
 our site before cleaning condition
 

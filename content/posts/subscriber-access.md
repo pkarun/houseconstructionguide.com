@@ -9,6 +9,7 @@ draft: false
 3.  [Download House Construction Agreement Format in Kannada](https://docs.google.com/document/d/1QICaNFivZEffbSuiGgP1p9xaNW0-8bWXW1NkZQnu4WE/export?format=pdf) | [Article](https://houseconstructionguide.com/house-construction-agreement-format-in-kannada/)
 4.  [Download House Construction Expenses Tracker Excel Sheet](https://app.groove.cm/groovemember/download/otcan4efddd2515912320c538b45124eadbe5) | [Article](https://houseconstructionguide.com/house-construction-expenses-excel-sheet/)
 5. [Download Categorywise House Construction Expenses Calculator](https://docs.google.com/document/d/1NMbRWBFjxXVgR66k73nnl8clMVz50E17_l8zMfe5B8E/export?format=pdf)  
+6. [My Temporary Connection Expenses](https://docs.google.com/document/d/1_nUyeSNpHlITJlaWTVjVnp25bgkIGYiXTIDFftG2BOk/export?format=pdf) |[Article](https://houseconstructionguide.com/temporary-electricity-connection-for-house-construction/)
 \
 \
 Don't forget to check out premium [house construction related guides here](https://houseconstructionguide.com/products/).
