@@ -57,7 +57,7 @@ If you are thinking about bescom temporary connection charges, I will share how 
 
 Changers depend on how many Kilo watts you take from BESCOM. If you are constructing your house, you need a minimum 2kw connection.  
 
-### [Click here to know my temporary connection expenses for free](https://offers.houseconstructionguide.com/free/temporary-connection-payment-details.html).
+### [Click here to know my temporary connection expenses for free](https://houseconstructionguide.com/free-resource/temporary-connection-payment.html).
 
 ### Bescom Temporary Connection Recharge
 

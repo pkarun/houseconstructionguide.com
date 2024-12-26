@@ -4,7 +4,7 @@
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>
         {{- else }}
-        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span><br>
+        <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
         {{- end }}
         {{- print " · "}}
     {{- end }}
@@ -30,6 +30,7 @@
         <a href="https://houseconstructionguide.com/contact-us/" rel="noopener noreferrer">Contact Me</a> .          
 		<a href="https://houseconstructionguide.com/products/" rel="noopener">Products</a> 	
     </span>
+	
 </footer>
 {{- end }}
 
