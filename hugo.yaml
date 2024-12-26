@@ -6,13 +6,11 @@ permalinks:
   posts: /:slug
 
 params:
-  defaultTheme: light
-  disableThemeToggle: true
+  defaultTheme: auto
   ShowCodeCopyButtons: false
   ShowPostNavLinks: false
   gtm_id: GTM-PGKJGBM
   gtm_datalayer: basic
-  social: true
 
   homeInfoParams:
     Title:  
