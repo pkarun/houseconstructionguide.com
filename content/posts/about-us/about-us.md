@@ -6,7 +6,7 @@ draft: false
 
 Hi, [I'm P K Arun](https://pkarun.com/) the guy behind this blog. I'm a full-time Internet Marketer.
 
-![P K Arun](/about-us/images/p-k-arun.jpg)
+![P K Arun](/images/p-k-arun.jpg)
 
 Our family constructed 2 houses in Bangalore and I thought to share our house construction experience with this blog so users can avoid those common mistakes they do (we have done that and I don't want our readers to do the same) while constructing their house.
 
