@@ -7,4 +7,8 @@ tags:
 - tag 1
 - tag 2
 slug: ""
+draft: false 
+searchHidden: false
+robotsNoIndex: false 
+hiddenInHomelist: false
 ---

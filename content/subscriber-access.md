@@ -7,7 +7,7 @@ robotsNoIndex: true
 hiddenInHomelist: true
 ---
 
-1.  [Visit Instant Name Numerology Calculator (Chaldean System)](https://houseconstructionguide.com/instant-name-numerology-calculator.html)
+1.  [Visit Instant Name Numerology Calculator (Chaldean System)](https://tools.pkarun.com/instant-name-numerology-calculator/)
 2.  [Download House Construction Expense Calculator](https://app.groove.cm/groovemember/download/joogx21acfd82427a4346408b90c05f935f01) | [Article](https://houseconstructionguide.com/house-construction-expense-calculator/)
 3.  [Download House Construction Agreement Format in Kannada](https://docs.google.com/document/d/1QICaNFivZEffbSuiGgP1p9xaNW0-8bWXW1NkZQnu4WE/export?format=pdf) | [Article](https://houseconstructionguide.com/house-construction-agreement-format-in-kannada/)
 4.  [Download House Construction Expenses Tracker Excel Sheet](https://app.groove.cm/groovemember/download/otcan4efddd2515912320c538b45124eadbe5) | [Article](https://houseconstructionguide.com/house-construction-expenses-excel-sheet/)
