@@ -46,6 +46,6 @@ I'm not very active there yet.
 
 I will soon when I have something to share.
 
-If you plan to start or already have rental properties in India, [join me at IndianLandlord.com](https://indianlandlord.com/) to receive landlording tips.
+If you plan to start or already have rental properties in India, [join me at pkarun.com](https://pkarun.com/tags/rental-property/) to receive landlording tips.
 
 Arun

@@ -5,7 +5,7 @@ draft: false
 tags: ['Home Appliances', 'home appliances', 'tips']
 ---
 
-All our tenants are college students. If you are a [landlord](https://indianlandlord.com/) and handle college students, you may be aware of the consequence of giving property to bachelors.
+All our tenants are college students. If you are a [landlord](https://pkarun.com/tags/rental-property/) and handle college students, you may be aware of the consequence of giving property to bachelors.
 
 This is common to us, and we don't stress much about damages…
 

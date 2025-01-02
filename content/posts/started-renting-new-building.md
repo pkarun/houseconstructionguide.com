@@ -36,4 +36,4 @@ Based on the current booking, we are averaging ₹5,700 per house. So 5700\*8=�
 
 So I guess that's a good suggestion from my Dad 🙂
 
-If in case you are also planning to build rental units, get my best tips at: [https://IndianLandlord.com/](https://IndianLandlord.com/)
+If in case you are also planning to build rental units, get my best tips at: [https://pkarun.com/tags/rental-property/](https://pkarun.com/tags/rental-property/)
