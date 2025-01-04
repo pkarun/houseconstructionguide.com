@@ -11,6 +11,7 @@ params:
   ShowPostNavLinks: false
   gtm_id: GTM-PGKJGBM
   gtm_datalayer: basic
+ 
 
   homeInfoParams:
     Title:  
@@ -45,5 +46,6 @@ outputs:
     - HTML
     - RSS
     - JSON # necessary for search
+
 
   
