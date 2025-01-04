@@ -36,8 +36,6 @@ This includes our count as well.
 
 While constructing building 2, we decided to have a borewell because we have rental property, and water scarcity may arise.
 
-![borewell drilling in our construction site](/real-cost-of-having-a-borewell-in-house/images/borewell-drilling-in-construction-site.jpg/)
-
 I think in the last 6 months, we only used 1 time. That, too, was when we cleaned our sump.
 
 The rest of the time, we purely relied on municipal water.
