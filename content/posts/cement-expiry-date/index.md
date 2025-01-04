@@ -49,7 +49,7 @@ Try to use that batch of cement bags before expire period that you just calculat
 
 Every cement has some date printed on the cement bags. If you observe neatly, you will notice the date.
 
-![Cement Manufacturing Date on cement bags ](/cement-expiry-date/images/Cement-manufacturing-Date.jpg/ "cement manufacturing date displayed on cement bags")
+![Cement Manufacturing Date on cement bags ](/cement-expiry-date/images/Cement-manufacturing-Date.jpg "cement manufacturing date displayed on cement bags")
 
 knowing cement expire date from cement manufacturing date
 
