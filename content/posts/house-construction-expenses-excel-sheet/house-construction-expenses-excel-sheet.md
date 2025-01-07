@@ -41,11 +41,11 @@ I used Google Forms to submit data to Google Sheets. If you don't know how to co
 
 Below is how my Google Form looks:
 
-![google form to google sheet](/house-construction-expenses-excel-sheet/images/house-construction-expenses-google-form-to-google-sheet.png)
+![google form to google sheet](/images/2024/house-construction-expenses-google-form-to-google-sheet.png)
 
 Once any entry is made, it gets updated in my House Construction Expenses Tracker Excel Sheet, as shown below.
 
-![house construction expenses excel sheet](/house-construction-expenses-excel-sheet/images/House-construction-expenses-excel-sheet.png)
+![house construction expenses excel sheet](/images/2024/House-construction-expenses-excel-sheet.png)
 
 If you are interested in my Google Sheet House Construction Expenses Tracker, you can download it from the below link.
 
