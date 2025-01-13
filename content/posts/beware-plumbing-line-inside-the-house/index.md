@@ -39,18 +39,18 @@ https://youtube.com/shorts/Fzb7W1Z56FA?feature=share
 
 We just need to cut the wall and replace the pipeline inside the wall. And wall drop also came in between, so I thought we needed to remove Waldrop as well… but when our Plumber came he informed US no need to remove Walldrop… we can replace pipe and started doing his work.
 
-![](/beware-plumbing-line-inside-the-house/images/plumber-repairing-damaged-pipe-inside-the-wall.jpg/)
+![](/beware-plumbing-line-inside-the-house/images/plumber-repairing-damaged-pipe-inside-the-wall.jpg)
 plumber removing pipe inside the wall
 
-![](/beware-plumbing-line-inside-the-house/images/water-leakage-on-the-wall.jpg/)
+![](/beware-plumbing-line-inside-the-house/images/water-leakage-on-the-wall.jpg)
 
 water leakage on the wall
 
-![](/beware-plumbing-line-inside-the-house/images/drilled-hole-damaged-pipe.jpg/)
+![](/beware-plumbing-line-inside-the-house/images/drilled-hole-damaged-pipe.jpg)
 
 wall drop nail damaged pipe
 
-![waterline damaged inside wall](/beware-plumbing-line-inside-the-house/images/waterline-damaged-inside-wall.jpg/)
+![waterline damaged inside wall](/beware-plumbing-line-inside-the-house/images/waterline-damaged-inside-wall.jpg)
 
 waterline damaged inside wall
 

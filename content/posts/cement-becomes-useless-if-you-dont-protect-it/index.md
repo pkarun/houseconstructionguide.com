@@ -37,7 +37,7 @@ Cold Reaching Cement in Shed:
 
 **1) Add 6" Blocks on the Ground**:
 
-![cement bags inside shed](/cement-becomes-useless-if-you-dont-protect-it/images/cement-bags-inside-shed.jpg/ "cement bags inside shed")
+![cement bags inside shed](/cement-becomes-useless-if-you-dont-protect-it/images/cement-bags-inside-shed.jpg "cement bags inside shed")
 
 cement bags inside shed
 
@@ -53,7 +53,7 @@ A minimum of one row of 6" blocks is recommended.
 
 **2) Above 6" blocks, put some cement bags and tarpal:**
 
-![protecting cement bags from cold](/cement-becomes-useless-if-you-dont-protect-it/Images/protect-cement-bags-from-cold.jpg/ "protecting cement bags from cold")
+![protecting cement bags from cold](/cement-becomes-useless-if-you-dont-protect-it/Images/protect-cement-bags-from-cold.jpg "protecting cement bags from cold")
 
 Cold/Moisture transfers from 6" concrete blocks as well.
 

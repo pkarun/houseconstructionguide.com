@@ -62,7 +62,7 @@ When asked about the price, he said, "₹490". 
 
 After the bargain, he agreed to "**₹470**". That too for local cement brands. Imagine what it could have cost us for the branded cement.
 
-![cement price during festival time](/cement-price-during-festival-time/images/cement-price-during-festival-time.jpg/)
+![cement price during festival time](/cement-price-during-festival-time/images/cement-price-during-festival-time.jpg)
 
 We had no option, so we ordered 3 local cement bags. 
 

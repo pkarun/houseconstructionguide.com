@@ -34,7 +34,7 @@ Here's our conversation with him:
 
 After that, I immediately opened my SS bill to see what the SS contractor gave me in the quotation… and I found nothing about gauge in that bill.
 
-![Stainless Steel work quotation ](/stainless-steel-railing-price-tricks/images/ss-work-quotation.jpg/)
+![Stainless Steel work quotation](/stainless-steel-railing-price-tricks/images/ss-work-quotation.jpg)
 
 Stainless Steel work quotation
 

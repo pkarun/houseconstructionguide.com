@@ -15,7 +15,7 @@ Mostly, In this guide, I'm going to focus on _sheds for storing purposes in cons
 
 Let's first understand why you need a temporary shed while constructing the building.
 
-![Temporary Shed for Construction in India](/temporary-shed-for-construction-in-india/images/Temporary-Shed-for-Construction-in-India.jpg/)
+![Temporary Shed for Construction in India](/temporary-shed-for-construction-in-india/images/Temporary-Shed-for-Construction-in-India.jpg)
 
 our temporary shed for construction purpose
 

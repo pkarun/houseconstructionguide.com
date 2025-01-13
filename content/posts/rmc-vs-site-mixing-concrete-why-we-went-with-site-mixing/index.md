@@ -43,7 +43,7 @@ In our case, we opted for the Site Mixing/Manual Mixing option for both building
 
 We did come across the RMC option before we started molding work. After researching and discussing with other users, **we finally chose the Site Mixing option**.
 
-[![Site Mixing Concrete during RCC Molding](https://houseconstructionguide.com/wp-content/uploads/2023/06/Site-Mixing-Concrete-during-RCC-Molding-1024x620.jpg)](https://houseconstructionguide.com/wp-content/uploads/2023/06/Site-Mixing-Concrete-during-RCC-Molding.jpg)
+[![Site Mixing Concrete during RCC Molding](/rmc-vs-site-mixing-concrete-why-we-went-with-site-mixing/images/Site-Mixing-Concrete-during-RCC-Molding-1024x620.jpg)](/rmc-vs-site-mixing-concrete-why-we-went-with-site-mixing/images/Site-Mixing-Concrete-during-RCC-Molding-744x450.jpg)
 
 Site Mixing Concrete during RCC Molding in our second building
 

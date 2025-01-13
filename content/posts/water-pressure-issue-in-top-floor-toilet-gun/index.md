@@ -40,7 +40,7 @@ But I was determined to fix the problem, so I permitted them to break the tiles 
 
 The concealed Valve was Removed.
 
-![Tiles cutting to remove concealed valve](/water-pressure-issue-in-top-floor-toilet-gun/images/removed-concealed-valve.jpg./)
+![Tiles cutting to remove concealed valve](/water-pressure-issue-in-top-floor-toilet-gun/images/removed-concealed-valve.jpg)
 
 Pressure?
 

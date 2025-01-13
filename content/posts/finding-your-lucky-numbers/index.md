@@ -11,7 +11,7 @@ I don't want to offer support questions on that topic so.
 
 Yesterday, I decided to include that in the Bonus section on my bulk name numerology calculator.
 
-![your Lucky, unlucky numbers](/finding-your-lucky-numbers/images/Finding-your-Lucky-numbers.jpg/)
+![your Lucky, unlucky numbers](/finding-your-lucky-numbers/images/Finding-your-Lucky-numbers.jpg)
 
 In that section, I showed you:
 

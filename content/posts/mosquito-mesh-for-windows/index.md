@@ -44,13 +44,13 @@ If you need to implement it, you can do that during construction time. If you ne
 
 If you are planning to using a wooden window, see this image:
 
-![mosquito mesh](/mosquito-mesh-for-windows/images/mosquito-mesh-for-wooden-windows.jpg/)
+![mosquito mesh](/mosquito-mesh-for-windows/images/mosquito-mesh-for-wooden-windows.jpg)
 
 mosquito mesh in wooden window
 
-![](/mosquito-mesh-for-windows/images/insect-screen-for-wooden-windows.jpg/)
+![](/mosquito-mesh-for-windows/images/insect-screen-for-wooden-windows.jpg)
 
-![mosquito mesh slot](/mosquito-mesh-for-windows/images/mosquito-mesh-for-window.jpg/)
+![mosquito mesh slot](/mosquito-mesh-for-windows/images/mosquito-mesh-for-window.jpg)
 
 First, let's understand the Advantages of Mosquito Mesh Windows:
 ----------------------------------------------------------------

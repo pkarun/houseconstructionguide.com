@@ -44,7 +44,7 @@ In the below article I'm going to share how you can install water level controll
 Choosing Water Level Controller Unit
 ------------------------------------
 
-[![Water level controller items](/water-level-controller-guide/images/water-level-controller.jpg/)](https://www.amazon.in/gp/product/B07P9JWHSZ?&linkCode=ll1&tag=newsite0003-21&linkId=ffaacca720908544ca2a016b6809a341&language=en_IN&ref_=as_li_ss_tl)
+[![Water level controller items](/water-level-controller-guide/images/water-level-controller.jpg)](https://www.amazon.in/gp/product/B07P9JWHSZ?&linkCode=ll1&tag=newsite0003-21&linkId=ffaacca720908544ca2a016b6809a341&language=en_IN&ref_=as_li_ss_tl)
 
 Water level controller items
 
@@ -60,7 +60,7 @@ Here are the things you should consider while looking for an Automatic Water Lev
 
 **1) Does the Water level controller come with Manual mode and Auto mode?**
 
-![Water level controller unit with Auto and Manul mode](/water-level-controller-guide/images/water-level-controller-with-dry-run-protection.jpg/) 
+![Water level controller unit with Auto and Manul mode](/water-level-controller-guide/images/water-level-controller-with-dry-run-protection.jpg) 
 
 Water level controller unit with Auto and Manul mode
 
@@ -76,7 +76,7 @@ With [Microtail Fully Automatic Water Level Controller with Dry Run Protection](
 
 **3) Type of Sensors:**
 
-![Water level controller sensor installed in overhead tank](/water-level-controller-guide/images/water-controller-sensor-in-water-tank.jpg/) 
+![Water level controller sensor installed in overhead tank](/water-level-controller-guide/images/water-controller-sensor-in-water-tank.jpg) 
 
 Water level controller sensor installed in overhead tank
 
@@ -90,7 +90,7 @@ I will explain the usage of those sensors in the Installation part.
 
 **5) Installation manual:**
 
-![Water level controller wiring diagram](/water-level-controller-guide/images/water-level-controller-circuit-diagram-with-dry-run-protection.jpg/)
+![Water level controller wiring diagram](/water-level-controller-guide/images/water-level-controller-circuit-diagram-with-dry-run-protection.jpg)
 
 Water level controller wiring diagram
 
@@ -137,7 +137,7 @@ To install a water level controller, a few things you need.
 
 **2) run the water controller wire from the pump switch to the underground tank**
 
-[![Water controller wire](/water-level-controller-guide/images/water-level-controller-sensor-cable.jpg/)](https://www.amazon.in/loTfiers-Rubber-Water-Level-Controller/dp/B07BPKZ11F?&linkCode=ll1&tag=newsite0003-21&linkId=b9663b3e222e4800ddd6a2be50eb090e&language=en_IN&ref_=as_li_ss_tl)
+[![Water controller wire](/water-level-controller-guide/images/water-level-controller-sensor-cable.jpg)](https://www.amazon.in/loTfiers-Rubber-Water-Level-Controller/dp/B07BPKZ11F?&linkCode=ll1&tag=newsite0003-21&linkId=b9663b3e222e4800ddd6a2be50eb090e&language=en_IN&ref_=as_li_ss_tl)
 
 Water controller wire
 
@@ -154,7 +154,7 @@ Let's first understand what that sensor job is.
 How Does Water Level Controller Work
 ------------------------------------
 
-[How Does Water Level Controller Work](/water-level-controller-guide/images/water-level-controller-working.jpg/)
+[How Does Water Level Controller Work](/water-level-controller-guide/images/water-level-controller-working.jpg)
 
 ### **Overhead Tank Sensors Job:**
 
@@ -223,17 +223,17 @@ a) Make sure you do this in your primary tank if you have multiple water tanks.
 
 b) Keep sensors a little far from the water delivery point to prevent water directly dropping on sensors which will create a sensor to confusion
 
-![Sensor cable installed in overhead tank](/water-level-controller-guide/images/installing-water-level-sensor-in-overhead-tank.jpg/) 
+![Sensor cable installed in overhead tank](/water-level-controller-guide/images/installing-water-level-sensor-in-overhead-tank.jpg) 
 
 Sensor cable installed in overhead tank
 
 2) Keep one knot outside the tank to prevent water controller cable from changing it's length. Because inside the tank sensor will be there so.
 
-![Knot in overhead tank](/water-level-controller-guide/images/cable-knot-to-prevent-sensor-going-down.jpg/)
+![Knot in overhead tank](/water-level-controller-guide/images/cable-knot-to-prevent-sensor-going-down.jpg)
 
 Knot in overhead tank
 
-![water level controller sensors in overhead tank](//water-level-controller-guide/images/sensor-in-overhead-water-tank.jpg/)
+![water level controller sensors in overhead tank](//water-level-controller-guide/images/sensor-in-overhead-water-tank.jpg)
 
 water level controller sensors in overhead tank
 
@@ -245,7 +245,7 @@ Keep all 3 sensors at whatever desired level you need to place and tie that cabl
 
 ### Electrical Wire Connection:
 
-![Water controller with motor stater electrical wiring ](/water-level-controller-guide/images/water-level-controller-connection.jpg/)
+![Water controller with motor stater electrical wiring ](/water-level-controller-guide/images/water-level-controller-connection.jpg)
 
 Water controller with motor starter electrical wiring
 

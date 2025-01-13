@@ -28,11 +28,11 @@ If, for some reason, you are interested in following the Pythagoras Numerology C
 
 You can type and see live sum of any names:
 
-![name numerology calculator ](/bulk-name-numerology-calculator/images/image-1.gif/ "name numerology calculator ")
+![name numerology calculator ](/bulk-name-numerology-calculator/images/image-1.gif "name numerology calculator ")
 
 Or copy-paste the names and see live name numerology sum count in bulk:
 
-![bulk Chaldean Name Numerology Calculator demo](/bulk-name-numerology-calculator/images/image.gif/ "bulk Chaldean Name Numerology Calculator demo")
+![bulk Chaldean Name Numerology Calculator demo](/bulk-name-numerology-calculator/images/image.gif "bulk Chaldean Name Numerology Calculator demo")
 
 ### **Why Bulk Name Numerology Calculator Excel Sheet?**
 
