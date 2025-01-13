@@ -233,7 +233,7 @@ Sensor cable installed in overhead tank
 
 Knot in overhead tank
 
-![water level controller sensors in overhead tank](//water-level-controller-guide/images/sensor-in-overhead-water-tank.jpg)
+![water level controller sensors in overhead tank](/water-level-controller-guide/images/sensor-in-overhead-water-tank.jpg)
 
 water level controller sensors in overhead tank
 
@@ -249,7 +249,7 @@ Keep all 3 sensors at whatever desired level you need to place and tie that cabl
 
 Water controller with motor starter electrical wiring
 
-![water level controller sensor wire connections](/images/2023/12/water-level-controller-sensor-wiring-connection.jpg)
+![water level controller sensor wire connections](/water-level-controller-guide/images/water-level-controller-sensor-wiring-connection.jpg)
 
 To connect sensor wires in controller unit I connected From left to right, Red, Yellow, Blue, Blue, Yellow, Red.
 

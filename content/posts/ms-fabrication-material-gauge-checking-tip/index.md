@@ -21,7 +21,7 @@ When you specifically ask, then only they will tell. 
 
 Ask and collect sample material they use for your work whenever you discuss.  
 
-![ms material guage checking](/ms-fabrication-material-gauge-checking-tip/images/MS-material-guage-checking-tip.jpg)
+![ms material guage checking](/ms-fabrication-material-gauge-checking-tip/images/MS-material-guage-checking.jpg)
 
 ms material guage checking
 

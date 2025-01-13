@@ -24,8 +24,6 @@ Which includes…
 
 **₹6,631** of Penality for just 2 Years!
 
-![Town municipal property tax challen](/property-tax-last-day-today/images/municipal-property-tax-challan.jpg)
-
 ### Haven't Paid Tax till?
 
 So if you also ignore paying property tax, check once with your concerned department. 
