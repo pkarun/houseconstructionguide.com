@@ -49,7 +49,7 @@ Once any entry is made, it gets updated in my House Construction Expenses Tracke
 
 If you are interested in my Google Sheet House Construction Expenses Tracker, you can download it from the below link.
 
-[Download my House Construction Expenses Tracker Google Sheet](https://app.groove.cm/groovemember/download/otcan4efddd2515912320c538b45124eadbe5)
+[Download my House Construction Expenses Tracker Google Sheet](https://offers.houseconstructionguide.com/free/sample-house-construction-expenses-excel-sheet.html)
 
 Remember. This is just one part of my expense tracking. It's not a full system.
 
