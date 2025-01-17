@@ -127,4 +127,4 @@ Just contact me by email at arun (at) houseconstructionguide.com within 30 days 
 
 
 
-### [Buy Only this Product](https://pages.razorpay.com/pl_OhzWz4jnDC4Qts/view?product_name=Numerology%20Calculator) | [Get Instant Access to All our Products](https://houseconstructionguide.com/products/#all-access-pass) 
+### [Buy Only this Product](https://pages.razorpay.com/pl_OhzWz4jnDC4Qts/view?product_name=Numerology%20Calculator) | [Get Instant Access to This & All our Products](https://houseconstructionguide.com/products/#all-access-pass) 

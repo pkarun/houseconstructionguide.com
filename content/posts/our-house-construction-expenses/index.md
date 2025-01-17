@@ -176,4 +176,4 @@ No. You cannot.
 
 You can reach me by emailing arun (at) houseconstructionguide.com. I’ll be glad to answer any questions you have.
 
-## [Get Instant Access to All our Products](https://houseconstructionguide.com/products/#all-access-pass)
+## [Get Instant Access to This & All my Guides](https://houseconstructionguide.com/products/#all-access-pass)

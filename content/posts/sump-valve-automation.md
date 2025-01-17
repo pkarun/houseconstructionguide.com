@@ -164,4 +164,4 @@ Just show me by photo or video why it didn't work in your case to consider for r
 
 Just contact me by email at arun (at) houseconstructionguide.com within 30 days of the purchase, and I will give you a full refund if I find it's a valid request. 
 
-## [Get Only This Product](https://pages.razorpay.com/pl_OhzZdIvbtkGj7q/view?product_name=Sump%20Valve%20Automation) | [Get Access to All my Products](https://houseconstructionguide.com/products/#all-access-pass)
+## [Get Only This Product](https://pages.razorpay.com/pl_OhzZdIvbtkGj7q/view?product_name=Sump%20Valve%20Automation) | [Get Instant Access to This & All Other Guides](https://houseconstructionguide.com/products/#all-access-pass)

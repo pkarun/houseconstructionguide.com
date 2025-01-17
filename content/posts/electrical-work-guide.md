@@ -122,4 +122,4 @@ I created this course… And I'm not an electrical engineer. This course helps f
 
 You can reach me by emailing arun (at) houseconstructionguide.com. I’ll be glad to answer any questions you have.
 
-## [Get Instant Access to All our Products](https://houseconstructionguide.com/products/#all-access-pass)
+## [Get Instant Access to this & All Other Guides](https://houseconstructionguide.com/products/#all-access-pass) 

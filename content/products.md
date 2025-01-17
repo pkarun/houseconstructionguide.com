@@ -64,7 +64,7 @@ They don’t care about your building as much as you. You are the one who is res
 
 ## Published Guides:
 
-### 1) [Cement Pricing Secrets](https://houseconstructionguide.com/cement-pricing-secrets/)
+### 1) [Cement Pricing Secrets](/cement-pricing-secrets/)
 
 So you are constructing your dream house and want to order Cement. Then, read this page before you order Cement again.
 
@@ -77,7 +77,7 @@ We (Me & my Dad) come to know about this fact later.. at the end of our house co
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 2) [House Construction Tracking System](https://houseconstructionguide.com/house-construction-tracking-system/)
+### 2) [House Construction Tracking System](/house-construction-tracking-system/)
 
 House construction Tracking System is a way I discovered to track everything while constructing your house.
 
@@ -103,7 +103,7 @@ In this guide I'm going to share some of the best practices you need to do preve
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 3) [Bulk Name Numerology Calculator](https://houseconstructionguide.com/bulk-name-numerology-calculator/)
+### 3) [Bulk Name Numerology Calculator](/bulk-name-numerology-calculator/)
 
 If you believe in Numerology and want to follow the numerology concept to name your new building, then with the help of my Bulk Name Numerology Calculator, you can easily find names that match your lucky number easily.
 
@@ -115,19 +115,19 @@ All you need to do is, enter names or copy-paste names that you need to check th
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 4) [Electrical Work Guide](https://houseconstructionguide.com/electrical-work-guide/)
+### 4) [Electrical Work Guide](/electrical-work-guide/)
 
 In this Electrical Work Guide, I will share everything you need to know about Electrical work for the new building, picking a good electrical contractor, things you need to remember, tips, etc., in this guide.
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 5) [During Molding Time](https://houseconstructionguide.com/during-molding-time/)
+### 5) [During Molding Time](/during-molding-time/)
 
 During our ground floor molding time, something suddenly went wrong with centering stuff, which could have spoiled our full ground floor mold. Luckily we noticed the problem and acted upon it immediately. In this mini-report, I will share everything I learned on that day and how you can prevent such issues.
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 6) [Internet Everywhere](https://houseconstructionguide.com/internet-everywhere/)
+### 6) [Internet Everywhere](/internet-everywhere/)
 
 In this guide you will learn the right way to take the Internet to every corner of your house so that all your devices are connected to wifi with fulll signal and experience better Internet speed.
 
@@ -145,7 +145,7 @@ Because these days, any modern device you take supports wifi. You will lose many
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 7) [Our House Construction Expenses](https://houseconstructionguide.com/our-house-construction-expenses/)
+### 7) [Our House Construction Expenses](/our-house-construction-expenses/)
 
 Interested in knowing how much we spent on our house construction and where we spent it?
 
@@ -161,7 +161,7 @@ It contains almost 98% of the expenses we spent on our second house construction
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 8) [Sump Construction Guide ](https://houseconstructionguide.com/sump-construction-guide/)
+### 8) [Sump Construction Guide ](/sump-construction-guide/)
 
 Before you build your sump, I recommend everyone go through this guide to know some of the best practices and tips every new house builder needs to follow.
 
@@ -175,7 +175,7 @@ Day by day, we slowly started noticing our mistake on our Sump. If you don’t w
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 9) [Toilet Door Privacy Issue ](https://houseconstructionguide.com/toilet-door-privacy-issue/)
+### 9) [Toilet Door Privacy Issue ](/toilet-door-privacy-issue/)
 
 Read this guide if you plan to install PVC or WPC toilet doors in your house.
 
@@ -185,7 +185,7 @@ You can only implement this step before Plastering work for a permanent solution
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 10) [Buying Msand, Jelly Like a Pro](https://houseconstructionguide.com/buying-msand-jelly-like-a-pro/)
+### 10) [Buying Msand, Jelly Like a Pro](/buying-msand-jelly-like-a-pro/)
 
 This guide is not about quality checking. Instead, this guide is all about buying Msand and Jelly without taking much stress.
 
@@ -211,7 +211,7 @@ This folder contains 1500+ images. 
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 12) [Building Contractor Guide](https://houseconstructionguide.com/building-contractor-guide/)
+### 12) [Building Contractor Guide](/building-contractor-guide/)
 
 In this Building Contractor Guide, I will share everything you need to know about a building contractor & his work scop.
 
@@ -229,7 +229,7 @@ Things like- 
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 13) [Housewarming Function](https://houseconstructionguide.com/housewarming-function/)
+### 13) [Housewarming Function](/housewarming-function/)
 
 In this Housewarming function guide, I will share a few things you need to know about buying gifts, clothes and some other general things you need to remember to arrange a Housewarming function.
 
@@ -237,7 +237,7 @@ I will share everything I know and things you need to keep in mind from before s
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 14) [Parking Horror](https://houseconstructionguide.com/parking-horror/)
+### 14) [Parking Horror](/parking-horror/)
 
 Don't make this common parking mistake made by many new users. It's very important to remember this point while doing your house foundation work.
 
@@ -330,7 +330,7 @@ Buy only if you are in the construction phase, not after that.
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
-### 21) [Outdoor Lights Automation](https://houseconstructionguide.com/outdoor-lights-automation/)
+### 21) [Outdoor Lights Automation](/outdoor-lights-automation/)
 
 In this Outdoor Light Automation guide, you will learn what you need to take care of when your house is being constructed to automate a few/all outdoor lights without spending more money on the setup.
 
@@ -353,7 +353,7 @@ I explained this concept with live images that happened in our own house so you 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
 
-### 23) [Water Pressure - Right way to get Good Water Pressure in Construction Buildings](https://houseconstructionguide.com/water-pressure/) 
+### 23) [Water Pressure - Right way to get Good Water Pressure in Construction Buildings](/water-pressure/) 
 
 In this guide, you will learn some important points that you need to remember during your house construction to get good pressure water on all floors and in all taps.
 
@@ -383,7 +383,7 @@ If you have not yet started your own house construction for some reason, this st
 [Get Instant Access to this & All Other Guides](#all-access-pass) | [Buy Only this Guide](https://pages.razorpay.com/pl_OnuSbcG2pym2yV/view?product_name=Not%20Yet%20Started?)
 
 
-### 25) [Sump Valve Automation - Automate Your Sump Valve No Matter How Deep your Sump Valve/Tap is Located Inside your Sump](https://houseconstructionguide.com/sump-valve-automation/)
+### 25) [Sump Valve Automation - Automate Your Sump Valve No Matter How Deep your Sump Valve/Tap is Located Inside your Sump](/sump-valve-automation/)
 
 In this guide, you will learn how to automate your sump valve no matter how deep your tap is inside your sump.
 
@@ -393,7 +393,7 @@ With this guide, you can automate the sump tap ON/OFF task.
 
 It turns off the tap when water is full inside the sump and Turns on the tap when the water level decreases. 
 
-[Get Instant Access to this & All Other Guides](#all-access-pass) | [Buy Only this Guide](https://houseconstructionguide.com/sump-valve-automation/)
+[Get Instant Access to this & All Other Guides](#all-access-pass) | [Buy Only this Guide](/sump-valve-automation/)
 
 
 ### 26) Sump Cover Guide – Proven Tips to Prevent Common Sump Cover Mistakes
@@ -489,6 +489,23 @@ Simplify your painting project with this easy-to-use, homeowner-friendly agreeme
 
 [Get Instant Access to this & All Other Guides](#all-access-pass)
 
+### 35) [Toilet Septic Tank Guide](/toilet-septic-tank-guide/)
+
+
+This guide is designed for homeowners planning to build a Toilet septic tank. It offers practical advice on planning, saving money, and ensuring hassle-free future maintenance. The guide writeen from my personal experience, emphasizing the importance of proper planning to avoid costly mistakes and future difficulties.
+
+Key topics covered include:
+
+- How deep the septic tank should be and why
+- Choosing between cement ring or stone pit
+- Money-saving tips
+- What to consider before hiring a pit digging contractor
+- Ensuring future pit maintenance is easier
+
+The guide is aimed at individuals who have not yet started their septic tank work or assigned the contract. It is not intended for experienced professionals or those who have already completed the contract work.
+
+[Get Instant Access to this & All Other Guides](#all-access-pass)
+
 ## Frequently Asked Questions:
 
 
@@ -514,7 +531,7 @@ All content are delivered in PDF File in a secure members area. You can able to 
 
 **6) Do you offer Refund?**
 
-No. Due to the nature of digital products, returns and refunds are not possible. You can see our [refund policy here](https://houseconstructionguide.com/return-and-refund-policy/). 
+No. Due to the nature of digital products, returns and refunds are not possible. You can see our [refund policy here](/return-and-refund-policy/). 
 
 **7) Where can I access the Content?**
 
