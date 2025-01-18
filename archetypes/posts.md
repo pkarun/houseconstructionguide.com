@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}
-author: ["P K Arun"]
+author: "P K Arun"
 tags: 
 - tag 1
 slug: ""

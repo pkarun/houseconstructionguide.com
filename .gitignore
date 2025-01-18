@@ -69,6 +69,5 @@ bower_components
 .awspublish*
 
 
-#windows bat files
-*.bat
+
 

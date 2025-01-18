@@ -2,7 +2,7 @@
 title: "What Happens When Toilet Pit Is Full"
 date: 2025-01-02T23:08:34+05:30
 lastmod: 2025-01-02T23:08:34+05:30
-author: ["P K Arun"]
+author: "P K Arun"
 tags: 
 - after construction
 slug: "what-happens-when-toilet-pit-is-full"
@@ -83,6 +83,6 @@ There won't be any smell or mess happening during this process. The hardest task
 
 That's it. 
 
-Based on this experience, I will be writing a guide & adding [inside members area](/products/) on how to plan a septic tank properly during your house construction so it gets easy during maintenance time. 
+Based on this experience, ~~I will be writing a guide~~ I have writen a [toilet septic tank guide](/toilet-septic-tank-guide/) & adding [inside members area](/products/) on how to plan a septic tank properly during your house construction so it gets easy during maintenance time. 
 
 This guide is unnecessary if UGD (Underground Drainage) is available. 

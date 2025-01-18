@@ -2,9 +2,10 @@
 title: "Toilet Septic Tank Guide"
 date: 2025-01-16T19:42:17+05:30
 lastmod: 2025-01-16T19:42:17+05:30
-author: ["P K Arun"]
+author: "P K Arun"
 tags: 
-- tag 1
+- septic tank
+- plumbing
 slug: "toilet-septic-tank-guide"
 draft: false 
 searchHidden: false
