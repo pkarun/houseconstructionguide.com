@@ -42,6 +42,6 @@ I also got that issue in this unit as well. Once my brother comes, we will go an
 
 It's an important thing many electricians don't care… but you have to.
 
-I have a few things to share about rental property construction. I will write a guide (paid) once I'm in the mood.
+I have a few things to share about rental property construction. I will [write a guide](https://houseconstructionguide.com/products/#27-rental-property-construction-guide) (paid) once I'm in the mood.
 
 Arun

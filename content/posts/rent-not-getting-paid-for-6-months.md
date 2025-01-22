@@ -44,7 +44,7 @@ Otherwise, you'd better stay away from rental property. 
 
 It's definitely not for all. 
 
-If you already decided to collect rent, I recommend learning from an experienced landlord managing rental property for a few years.
+If you already decided to collect rent, I recommend learning from an experienced landlord [managing rental property](https://rentalproperty.pkarun.com/) for a few years.
 
 They probably could have seen many such incidents in their experience.
 

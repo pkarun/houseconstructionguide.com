@@ -86,6 +86,6 @@ For that money, I would be more than happy to deal with such tenant issues here 
 
 Are you?
 
-If you are also interested in rental properties… [Visit pkarun.com](https://pkarun.com/tags/rental-property/) for my tips and guidance. 
+If you are also interested in rental properties… [Visit rentalproperty.pkarun.com](https://rentalproperty.pkarun.com/) for my tips and guidance. 
 
 Currently, I'm not actively sharing there, but I will later.
